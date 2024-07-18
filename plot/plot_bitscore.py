@@ -63,12 +63,6 @@ def plot_data(merged_df):
     plt.show()
 
 def plot_specific(merged_df):
-    # 模拟数据
-    # np.random.seed(0)
-    # merged_df = pd.DataFrame({
-    #     "pident": np.random.uniform(0, 100, 100),
-    #     "score": np.random.uniform(0, 1000, 100)
-    # })
 
     # 添加趋势线
     z = np.polyfit(merged_df["bitscore"], merged_df["score"], 1)

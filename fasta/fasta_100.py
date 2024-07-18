@@ -2,12 +2,11 @@ from Bio import SeqIO
 import pandas as pd
 
 def parse_fasta(file_path):
-    """解析 FASTA 文件并分类序列长度"""
     short_seqs = []
     long_seqs = []
     
     for record in SeqIO.parse(file_path, "fasta"):
-        sequence_id = record.id.split('|')[1]  # 提取序列号，假设序列号总是在第二个位置
+        sequence_id = record.id.split('|')[1] 
         sequence_length = len(record.seq)
         
         if sequence_length < 100:
@@ -20,5 +19,6 @@ def parse_fasta(file_path):
 # 调用函数并读取文件
 df_short, df_long = parse_fasta("ruddii_proteome.fasta")
 
+print(df_short)
 
 

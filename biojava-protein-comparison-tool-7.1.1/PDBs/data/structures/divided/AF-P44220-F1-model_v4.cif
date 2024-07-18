@@ -1,0 +1,1363 @@
+data_AF-P44220-F1
+#
+_entry.id AF-P44220-F1
+#
+loop_
+_atom_type.symbol
+C 
+N 
+O 
+S 
+#
+loop_
+_audit_author.name
+_audit_author.pdbx_ordinal
+"Jumper, John"               1  
+"Evans, Richard"             2  
+"Pritzel, Alexander"         3  
+"Green, Tim"                 4  
+"Figurnov, Michael"          5  
+"Ronneberger, Olaf"          6  
+"Tunyasuvunakool, Kathryn"   7  
+"Bates, Russ"                8  
+"Zidek, Augustin"            9  
+"Potapenko, Anna"            10 
+"Bridgland, Alex"            11 
+"Meyer, Clemens"             12 
+"Kohl, Simon A. A."          13 
+"Ballard, Andrew J."         14 
+"Cowie, Andrew"              15 
+"Romera-Paredes, Bernardino" 16 
+"Nikolov, Stanislav"         17 
+"Jain, Rishub"               18 
+"Adler, Jonas"               19 
+"Back, Trevor"               20 
+"Petersen, Stig"             21 
+"Reiman, David"              22 
+"Clancy, Ellen"              23 
+"Zielinski, Michal"          24 
+"Steinegger, Martin"         25 
+"Pacholska, Michalina"       26 
+"Berghammer, Tamas"          27 
+"Silver, David"              28 
+"Vinyals, Oriol"             29 
+"Senior, Andrew W."          30 
+"Kavukcuoglu, Koray"         31 
+"Kohli, Pushmeet"            32 
+"Hassabis, Demis"            33 
+#
+_audit_conform.dict_location https://raw.githubusercontent.com/ihmwg/ModelCIF/master/dist/mmcif_ma.dic
+_audit_conform.dict_name     mmcif_ma.dic
+_audit_conform.dict_version  1.3.9
+#
+loop_
+_chem_comp.formula
+_chem_comp.formula_weight
+_chem_comp.id
+_chem_comp.mon_nstd_flag
+_chem_comp.name
+_chem_comp.pdbx_synonyms
+_chem_comp.type
+"C3 H7 N O2"    89.093  ALA y ALANINE         ? "L-PEPTIDE LINKING" 
+"C6 H15 N4 O2"  175.209 ARG y ARGININE        ? "L-PEPTIDE LINKING" 
+"C4 H8 N2 O3"   132.118 ASN y ASPARAGINE      ? "L-PEPTIDE LINKING" 
+"C4 H7 N O4"    133.103 ASP y "ASPARTIC ACID" ? "L-PEPTIDE LINKING" 
+"C5 H10 N2 O3"  146.144 GLN y GLUTAMINE       ? "L-PEPTIDE LINKING" 
+"C5 H9 N O4"    147.129 GLU y "GLUTAMIC ACID" ? "L-PEPTIDE LINKING" 
+"C2 H5 N O2"    75.067  GLY y GLYCINE         ? "PEPTIDE LINKING"   
+"C6 H10 N3 O2"  156.162 HIS y HISTIDINE       ? "L-PEPTIDE LINKING" 
+"C6 H13 N O2"   131.173 ILE y ISOLEUCINE      ? "L-PEPTIDE LINKING" 
+"C6 H13 N O2"   131.173 LEU y LEUCINE         ? "L-PEPTIDE LINKING" 
+"C6 H15 N2 O2"  147.195 LYS y LYSINE          ? "L-PEPTIDE LINKING" 
+"C5 H11 N O2 S" 149.211 MET y METHIONINE      ? "L-PEPTIDE LINKING" 
+"C9 H11 N O2"   165.189 PHE y PHENYLALANINE   ? "L-PEPTIDE LINKING" 
+"C3 H7 N O3"    105.093 SER y SERINE          ? "L-PEPTIDE LINKING" 
+"C4 H9 N O3"    119.119 THR y THREONINE       ? "L-PEPTIDE LINKING" 
+"C9 H11 N O3"   181.189 TYR y TYROSINE        ? "L-PEPTIDE LINKING" 
+"C5 H11 N O2"   117.146 VAL y VALINE          ? "L-PEPTIDE LINKING" 
+#
+_citation.book_publisher          ?
+_citation.country                 UK
+_citation.id                      primary
+_citation.journal_full            Nature
+_citation.journal_id_ASTM         NATUAS
+_citation.journal_id_CSD          0006
+_citation.journal_id_ISSN         0028-0836
+_citation.journal_volume          596
+_citation.page_first              583
+_citation.page_last               589
+_citation.pdbx_database_id_DOI    10.1038/s41586-021-03819-2
+_citation.pdbx_database_id_PubMed 34265844
+_citation.title                   "Highly accurate protein structure prediction with AlphaFold"
+_citation.year                    2021
+#
+loop_
+_citation_author.citation_id
+_citation_author.name
+_citation_author.ordinal
+1 "Jumper, John"               1  
+1 "Evans, Richard"             2  
+1 "Pritzel, Alexander"         3  
+1 "Green, Tim"                 4  
+1 "Figurnov, Michael"          5  
+1 "Ronneberger, Olaf"          6  
+1 "Tunyasuvunakool, Kathryn"   7  
+1 "Bates, Russ"                8  
+1 "Zidek, Augustin"            9  
+1 "Potapenko, Anna"            10 
+1 "Bridgland, Alex"            11 
+1 "Meyer, Clemens"             12 
+1 "Kohl, Simon A. A."          13 
+1 "Ballard, Andrew J."         14 
+1 "Cowie, Andrew"              15 
+1 "Romera-Paredes, Bernardino" 16 
+1 "Nikolov, Stanislav"         17 
+1 "Jain, Rishub"               18 
+1 "Adler, Jonas"               19 
+1 "Back, Trevor"               20 
+1 "Petersen, Stig"             21 
+1 "Reiman, David"              22 
+1 "Clancy, Ellen"              23 
+1 "Zielinski, Michal"          24 
+1 "Steinegger, Martin"         25 
+1 "Pacholska, Michalina"       26 
+1 "Berghammer, Tamas"          27 
+1 "Silver, David"              28 
+1 "Vinyals, Oriol"             29 
+1 "Senior, Andrew W."          30 
+1 "Kavukcuoglu, Koray"         31 
+1 "Kohli, Pushmeet"            32 
+1 "Hassabis, Demis"            33 
+#
+_database_2.database_code AF-P44220-F1
+_database_2.database_id   AlphaFoldDB
+#
+_entity.details                  ?
+_entity.formula_weight           ?
+_entity.id                       1
+_entity.pdbx_description         "Uncharacterized protein HI_1496"
+_entity.pdbx_ec                  ?
+_entity.pdbx_fragment            ?
+_entity.pdbx_mutation            ?
+_entity.pdbx_number_of_molecules 1
+_entity.src_method               man
+_entity.type                     polymer
+#
+_entity_poly.entity_id                    1
+_entity_poly.nstd_linkage                 no
+_entity_poly.nstd_monomer                 no
+_entity_poly.pdbx_seq_one_letter_code     
+;MMNLILAFSGVIALYGGYLYLRLRQSQKQAATLQKEKEQLQTQKTVAETKVKNYQVKQKNEENLISRSRTSLLERMHNDG
+DLRD
+;
+_entity_poly.pdbx_seq_one_letter_code_can 
+;MMNLILAFSGVIALYGGYLYLRLRQSQKQAATLQKEKEQLQTQKTVAETKVKNYQVKQKNEENLISRSRTSLLERMHNDG
+DLRD
+;
+_entity_poly.pdbx_strand_id               A
+_entity_poly.type                         polypeptide(L)
+#
+loop_
+_entity_poly_seq.entity_id
+_entity_poly_seq.hetero
+_entity_poly_seq.mon_id
+_entity_poly_seq.num
+1 n MET 1  
+1 n MET 2  
+1 n ASN 3  
+1 n LEU 4  
+1 n ILE 5  
+1 n LEU 6  
+1 n ALA 7  
+1 n PHE 8  
+1 n SER 9  
+1 n GLY 10 
+1 n VAL 11 
+1 n ILE 12 
+1 n ALA 13 
+1 n LEU 14 
+1 n TYR 15 
+1 n GLY 16 
+1 n GLY 17 
+1 n TYR 18 
+1 n LEU 19 
+1 n TYR 20 
+1 n LEU 21 
+1 n ARG 22 
+1 n LEU 23 
+1 n ARG 24 
+1 n GLN 25 
+1 n SER 26 
+1 n GLN 27 
+1 n LYS 28 
+1 n GLN 29 
+1 n ALA 30 
+1 n ALA 31 
+1 n THR 32 
+1 n LEU 33 
+1 n GLN 34 
+1 n LYS 35 
+1 n GLU 36 
+1 n LYS 37 
+1 n GLU 38 
+1 n GLN 39 
+1 n LEU 40 
+1 n GLN 41 
+1 n THR 42 
+1 n GLN 43 
+1 n LYS 44 
+1 n THR 45 
+1 n VAL 46 
+1 n ALA 47 
+1 n GLU 48 
+1 n THR 49 
+1 n LYS 50 
+1 n VAL 51 
+1 n LYS 52 
+1 n ASN 53 
+1 n TYR 54 
+1 n GLN 55 
+1 n VAL 56 
+1 n LYS 57 
+1 n GLN 58 
+1 n LYS 59 
+1 n ASN 60 
+1 n GLU 61 
+1 n GLU 62 
+1 n ASN 63 
+1 n LEU 64 
+1 n ILE 65 
+1 n SER 66 
+1 n ARG 67 
+1 n SER 68 
+1 n ARG 69 
+1 n THR 70 
+1 n SER 71 
+1 n LEU 72 
+1 n LEU 73 
+1 n GLU 74 
+1 n ARG 75 
+1 n MET 76 
+1 n HIS 77 
+1 n ASN 78 
+1 n ASP 79 
+1 n GLY 80 
+1 n ASP 81 
+1 n LEU 82 
+1 n ARG 83 
+1 n ASP 84 
+#
+loop_
+_ma_data.content_type
+_ma_data.id
+_ma_data.name
+"model coordinates" 1 Model             
+"input structure"   2 "Input structure" 
+#
+_ma_model_list.data_id          1
+_ma_model_list.model_group_id   1
+_ma_model_list.model_group_name "AlphaFold Monomer v2.0 model"
+_ma_model_list.model_id         1
+_ma_model_list.model_name       "Top ranked model"
+_ma_model_list.model_type       "Ab initio model"
+_ma_model_list.ordinal_id       1
+#
+loop_
+_ma_protocol_step.method_type
+_ma_protocol_step.ordinal_id
+_ma_protocol_step.protocol_id
+_ma_protocol_step.step_id
+"coevolution MSA" 1 1 1 
+"template search" 2 1 2 
+modeling          3 1 3 
+#
+loop_
+_ma_qa_metric.id
+_ma_qa_metric.mode
+_ma_qa_metric.name
+_ma_qa_metric.software_group_id
+_ma_qa_metric.type
+1 global pLDDT 1 pLDDT 
+2 local  pLDDT 1 pLDDT 
+#
+_ma_qa_metric_global.metric_id    1
+_ma_qa_metric_global.metric_value 82.28
+_ma_qa_metric_global.model_id     1
+_ma_qa_metric_global.ordinal_id   1
+#
+loop_
+_ma_qa_metric_local.label_asym_id
+_ma_qa_metric_local.label_comp_id
+_ma_qa_metric_local.label_seq_id
+_ma_qa_metric_local.metric_id
+_ma_qa_metric_local.metric_value
+_ma_qa_metric_local.model_id
+_ma_qa_metric_local.ordinal_id
+A MET 1  2 76.74 1 1  
+A MET 2  2 85.91 1 2  
+A ASN 3  2 88.31 1 3  
+A LEU 4  2 88.50 1 4  
+A ILE 5  2 89.63 1 5  
+A LEU 6  2 90.21 1 6  
+A ALA 7  2 89.46 1 7  
+A PHE 8  2 90.59 1 8  
+A SER 9  2 90.02 1 9  
+A GLY 10 2 90.49 1 10 
+A VAL 11 2 92.34 1 11 
+A ILE 12 2 92.53 1 12 
+A ALA 13 2 92.49 1 13 
+A LEU 14 2 92.08 1 14 
+A TYR 15 2 91.83 1 15 
+A GLY 16 2 92.00 1 16 
+A GLY 17 2 92.71 1 17 
+A TYR 18 2 92.01 1 18 
+A LEU 19 2 91.26 1 19 
+A TYR 20 2 89.22 1 20 
+A LEU 21 2 89.10 1 21 
+A ARG 22 2 87.81 1 22 
+A LEU 23 2 82.20 1 23 
+A ARG 24 2 81.71 1 24 
+A GLN 25 2 80.39 1 25 
+A SER 26 2 73.98 1 26 
+A GLN 27 2 69.79 1 27 
+A LYS 28 2 70.77 1 28 
+A GLN 29 2 68.97 1 29 
+A ALA 30 2 67.78 1 30 
+A ALA 31 2 66.50 1 31 
+A THR 32 2 68.39 1 32 
+A LEU 33 2 67.20 1 33 
+A GLN 34 2 68.20 1 34 
+A LYS 35 2 68.96 1 35 
+A GLU 36 2 70.05 1 36 
+A LYS 37 2 71.38 1 37 
+A GLU 38 2 71.84 1 38 
+A GLN 39 2 75.30 1 39 
+A LEU 40 2 76.83 1 40 
+A GLN 41 2 76.99 1 41 
+A THR 42 2 78.98 1 42 
+A GLN 43 2 76.08 1 43 
+A LYS 44 2 79.31 1 44 
+A THR 45 2 81.89 1 45 
+A VAL 46 2 83.44 1 46 
+A ALA 47 2 82.74 1 47 
+A GLU 48 2 83.43 1 48 
+A THR 49 2 87.18 1 49 
+A LYS 50 2 85.68 1 50 
+A VAL 51 2 88.42 1 51 
+A LYS 52 2 90.17 1 52 
+A ASN 53 2 91.72 1 53 
+A TYR 54 2 90.25 1 54 
+A GLN 55 2 90.63 1 55 
+A VAL 56 2 91.03 1 56 
+A LYS 57 2 91.11 1 57 
+A GLN 58 2 90.87 1 58 
+A LYS 59 2 89.35 1 59 
+A ASN 60 2 88.42 1 60 
+A GLU 61 2 86.57 1 61 
+A GLU 62 2 85.40 1 62 
+A ASN 63 2 85.94 1 63 
+A LEU 64 2 81.68 1 64 
+A ILE 65 2 82.80 1 65 
+A SER 66 2 82.97 1 66 
+A ARG 67 2 79.43 1 67 
+A SER 68 2 82.27 1 68 
+A ARG 69 2 81.54 1 69 
+A THR 70 2 81.97 1 70 
+A SER 71 2 81.30 1 71 
+A LEU 72 2 83.32 1 72 
+A LEU 73 2 83.11 1 73 
+A GLU 74 2 83.02 1 74 
+A ARG 75 2 82.84 1 75 
+A MET 76 2 81.88 1 76 
+A HIS 77 2 79.28 1 77 
+A ASN 78 2 79.66 1 78 
+A ASP 79 2 83.63 1 79 
+A GLY 80 2 75.55 1 80 
+A ASP 81 2 75.16 1 81 
+A LEU 82 2 68.32 1 82 
+A ARG 83 2 69.52 1 83 
+A ASP 84 2 64.46 1 84 
+#
+_ma_software_group.group_id    1
+_ma_software_group.ordinal_id  1
+_ma_software_group.software_id 1
+#
+_ma_target_entity.data_id   1
+_ma_target_entity.entity_id 1
+_ma_target_entity.origin    "reference database"
+#
+_ma_target_entity_instance.asym_id   A
+_ma_target_entity_instance.details   .
+_ma_target_entity_instance.entity_id 1
+#
+_ma_target_ref_db_details.db_accession                 P44220
+_ma_target_ref_db_details.db_code                      Y1496_HAEIN
+_ma_target_ref_db_details.db_name                      UNP
+_ma_target_ref_db_details.gene_name                    HI_1496
+_ma_target_ref_db_details.ncbi_taxonomy_id             71421
+_ma_target_ref_db_details.organism_scientific          "Haemophilus influenzae (strain ATCC 51907 / DSM 11121 / KW20 / Rd)"
+_ma_target_ref_db_details.seq_db_align_begin           1
+_ma_target_ref_db_details.seq_db_align_end             84
+_ma_target_ref_db_details.seq_db_isoform               ?
+_ma_target_ref_db_details.seq_db_sequence_checksum     7595F064F32D0558
+_ma_target_ref_db_details.seq_db_sequence_version_date 1995-11-01
+_ma_target_ref_db_details.target_entity_id             1
+#
+loop_
+_ma_template_details.ordinal_id
+_ma_template_details.target_asym_id
+_ma_template_details.template_auth_asym_id
+_ma_template_details.template_data_id
+_ma_template_details.template_entity_type
+_ma_template_details.template_id
+_ma_template_details.template_model_num
+_ma_template_details.template_origin
+_ma_template_details.template_trans_matrix_id
+1 A A 2 polymer 1 1 "reference database" 1 
+2 A A 2 polymer 2 1 "reference database" 1 
+3 A B 2 polymer 3 1 "reference database" 1 
+4 A H 2 polymer 4 1 "reference database" 1 
+#
+loop_
+_ma_template_ref_db_details.db_accession_code
+_ma_template_ref_db_details.db_name
+_ma_template_ref_db_details.template_id
+3SWK PDB 1 
+1IK9 PDB 2 
+1IK9 PDB 3 
+6OGD PDB 4 
+#
+_ma_template_trans_matrix.id               1
+_ma_template_trans_matrix.rot_matrix[1][1] 1.0
+_ma_template_trans_matrix.rot_matrix[1][2] 0.0
+_ma_template_trans_matrix.rot_matrix[1][3] 0.0
+_ma_template_trans_matrix.rot_matrix[2][1] 0.0
+_ma_template_trans_matrix.rot_matrix[2][2] 1.0
+_ma_template_trans_matrix.rot_matrix[2][3] 0.0
+_ma_template_trans_matrix.rot_matrix[3][1] 0.0
+_ma_template_trans_matrix.rot_matrix[3][2] 0.0
+_ma_template_trans_matrix.rot_matrix[3][3] 1.0
+_ma_template_trans_matrix.tr_vector[1]     0.0
+_ma_template_trans_matrix.tr_vector[2]     0.0
+_ma_template_trans_matrix.tr_vector[3]     0.0
+#
+loop_
+_pdbx_audit_revision_details.data_content_type
+_pdbx_audit_revision_details.description
+_pdbx_audit_revision_details.ordinal
+_pdbx_audit_revision_details.provider
+_pdbx_audit_revision_details.revision_ordinal
+_pdbx_audit_revision_details.type
+"Structure model" "Format fixes, new metadata, initial SwissProt release" 2 repository 2 Remediation 
+"Structure model" "Format fixes, new metadata, initial UniProt release"   3 repository 3 Remediation 
+"Structure model" "Improved prediction accuracy, small format fixes"      4 repository 4 Remediation 
+#
+loop_
+_pdbx_audit_revision_history.data_content_type
+_pdbx_audit_revision_history.major_revision
+_pdbx_audit_revision_history.minor_revision
+_pdbx_audit_revision_history.ordinal
+_pdbx_audit_revision_history.revision_date
+"Structure model" 2 0 2 2021-12-09 
+"Structure model" 3 0 3 2022-06-01 
+"Structure model" 4 0 4 2022-09-30 
+#
+loop_
+_pdbx_data_usage.details
+_pdbx_data_usage.id
+_pdbx_data_usage.name
+_pdbx_data_usage.type
+_pdbx_data_usage.url
+"Data in this file is available under a CC-BY-4.0 license." 1 CC-BY-4.0 license    https://creativecommons.org/licenses/by/4.0/ 
+;ALPHAFOLD DATA, COPYRIGHT (2021) DEEPMIND TECHNOLOGIES LIMITED. THE INFORMATION
+PROVIDED IS THEORETICAL MODELLING ONLY AND CAUTION SHOULD BE EXERCISED IN ITS
+USE. IT IS PROVIDED "AS-IS" WITHOUT ANY WARRANTY OF ANY KIND, WHETHER EXPRESSED
+OR IMPLIED. NO WARRANTY IS GIVEN THAT USE OF THE INFORMATION SHALL NOT INFRINGE
+THE RIGHTS OF ANY THIRD PARTY. DISCLAIMER: THE INFORMATION IS NOT INTENDED TO BE
+A SUBSTITUTE FOR PROFESSIONAL MEDICAL ADVICE, DIAGNOSIS, OR TREATMENT, AND DOES
+NOT CONSTITUTE MEDICAL OR OTHER PROFESSIONAL ADVICE. IT IS AVAILABLE FOR
+ACADEMIC AND COMMERCIAL PURPOSES, UNDER CC-BY 4.0 LICENCE.
+;
+2 ?         disclaimer ?                                            
+#
+_pdbx_database_status.entry_id                      AF-P44220-F1
+_pdbx_database_status.recvd_initial_deposition_date 2022-06-01
+_pdbx_database_status.status_code                   REL
+#
+loop_
+_pdbx_poly_seq_scheme.asym_id
+_pdbx_poly_seq_scheme.auth_seq_num
+_pdbx_poly_seq_scheme.entity_id
+_pdbx_poly_seq_scheme.hetero
+_pdbx_poly_seq_scheme.mon_id
+_pdbx_poly_seq_scheme.pdb_ins_code
+_pdbx_poly_seq_scheme.pdb_mon_id
+_pdbx_poly_seq_scheme.pdb_seq_num
+_pdbx_poly_seq_scheme.pdb_strand_id
+_pdbx_poly_seq_scheme.seq_id
+A 1  1 n MET . MET 1  A 1  
+A 2  1 n MET . MET 2  A 2  
+A 3  1 n ASN . ASN 3  A 3  
+A 4  1 n LEU . LEU 4  A 4  
+A 5  1 n ILE . ILE 5  A 5  
+A 6  1 n LEU . LEU 6  A 6  
+A 7  1 n ALA . ALA 7  A 7  
+A 8  1 n PHE . PHE 8  A 8  
+A 9  1 n SER . SER 9  A 9  
+A 10 1 n GLY . GLY 10 A 10 
+A 11 1 n VAL . VAL 11 A 11 
+A 12 1 n ILE . ILE 12 A 12 
+A 13 1 n ALA . ALA 13 A 13 
+A 14 1 n LEU . LEU 14 A 14 
+A 15 1 n TYR . TYR 15 A 15 
+A 16 1 n GLY . GLY 16 A 16 
+A 17 1 n GLY . GLY 17 A 17 
+A 18 1 n TYR . TYR 18 A 18 
+A 19 1 n LEU . LEU 19 A 19 
+A 20 1 n TYR . TYR 20 A 20 
+A 21 1 n LEU . LEU 21 A 21 
+A 22 1 n ARG . ARG 22 A 22 
+A 23 1 n LEU . LEU 23 A 23 
+A 24 1 n ARG . ARG 24 A 24 
+A 25 1 n GLN . GLN 25 A 25 
+A 26 1 n SER . SER 26 A 26 
+A 27 1 n GLN . GLN 27 A 27 
+A 28 1 n LYS . LYS 28 A 28 
+A 29 1 n GLN . GLN 29 A 29 
+A 30 1 n ALA . ALA 30 A 30 
+A 31 1 n ALA . ALA 31 A 31 
+A 32 1 n THR . THR 32 A 32 
+A 33 1 n LEU . LEU 33 A 33 
+A 34 1 n GLN . GLN 34 A 34 
+A 35 1 n LYS . LYS 35 A 35 
+A 36 1 n GLU . GLU 36 A 36 
+A 37 1 n LYS . LYS 37 A 37 
+A 38 1 n GLU . GLU 38 A 38 
+A 39 1 n GLN . GLN 39 A 39 
+A 40 1 n LEU . LEU 40 A 40 
+A 41 1 n GLN . GLN 41 A 41 
+A 42 1 n THR . THR 42 A 42 
+A 43 1 n GLN . GLN 43 A 43 
+A 44 1 n LYS . LYS 44 A 44 
+A 45 1 n THR . THR 45 A 45 
+A 46 1 n VAL . VAL 46 A 46 
+A 47 1 n ALA . ALA 47 A 47 
+A 48 1 n GLU . GLU 48 A 48 
+A 49 1 n THR . THR 49 A 49 
+A 50 1 n LYS . LYS 50 A 50 
+A 51 1 n VAL . VAL 51 A 51 
+A 52 1 n LYS . LYS 52 A 52 
+A 53 1 n ASN . ASN 53 A 53 
+A 54 1 n TYR . TYR 54 A 54 
+A 55 1 n GLN . GLN 55 A 55 
+A 56 1 n VAL . VAL 56 A 56 
+A 57 1 n LYS . LYS 57 A 57 
+A 58 1 n GLN . GLN 58 A 58 
+A 59 1 n LYS . LYS 59 A 59 
+A 60 1 n ASN . ASN 60 A 60 
+A 61 1 n GLU . GLU 61 A 61 
+A 62 1 n GLU . GLU 62 A 62 
+A 63 1 n ASN . ASN 63 A 63 
+A 64 1 n LEU . LEU 64 A 64 
+A 65 1 n ILE . ILE 65 A 65 
+A 66 1 n SER . SER 66 A 66 
+A 67 1 n ARG . ARG 67 A 67 
+A 68 1 n SER . SER 68 A 68 
+A 69 1 n ARG . ARG 69 A 69 
+A 70 1 n THR . THR 70 A 70 
+A 71 1 n SER . SER 71 A 71 
+A 72 1 n LEU . LEU 72 A 72 
+A 73 1 n LEU . LEU 73 A 73 
+A 74 1 n GLU . GLU 74 A 74 
+A 75 1 n ARG . ARG 75 A 75 
+A 76 1 n MET . MET 76 A 76 
+A 77 1 n HIS . HIS 77 A 77 
+A 78 1 n ASN . ASN 78 A 78 
+A 79 1 n ASP . ASP 79 A 79 
+A 80 1 n GLY . GLY 80 A 80 
+A 81 1 n ASP . ASP 81 A 81 
+A 82 1 n LEU . LEU 82 A 82 
+A 83 1 n ARG . ARG 83 A 83 
+A 84 1 n ASP . ASP 84 A 84 
+#
+loop_
+_software.classification
+_software.date
+_software.description
+_software.name
+_software.pdbx_ordinal
+_software.type
+_software.version
+other ? "Structure prediction" AlphaFold 1 package v2.0 
+other ? "Secondary structure"  dssp      2 library 4    
+#
+_struct_asym.entity_id 1
+_struct_asym.id        A
+#
+loop_
+_struct_conf.beg_auth_asym_id
+_struct_conf.beg_auth_comp_id
+_struct_conf.beg_auth_seq_id
+_struct_conf.beg_label_asym_id
+_struct_conf.beg_label_comp_id
+_struct_conf.beg_label_seq_id
+_struct_conf.conf_type_id
+_struct_conf.end_auth_asym_id
+_struct_conf.end_auth_comp_id
+_struct_conf.end_auth_seq_id
+_struct_conf.end_label_asym_id
+_struct_conf.end_label_comp_id
+_struct_conf.end_label_seq_id
+_struct_conf.id
+_struct_conf.pdbx_beg_PDB_ins_code
+_struct_conf.pdbx_end_PDB_ins_code
+A MET 2  A MET 2  HELX_RH_AL_P A ASN 78 A ASN 78 HELX_RH_AL_P1 ? ? 
+A ASP 79 A ASP 79 TURN_TY1_P   A GLY 80 A GLY 80 TURN_TY1_P1   ? ? 
+#
+loop_
+_struct_conf_type.criteria
+_struct_conf_type.id
+DSSP HELX_RH_AL_P 
+DSSP TURN_TY1_P   
+#
+_struct_ref.db_code                  Y1496_HAEIN
+_struct_ref.db_name                  UNP
+_struct_ref.entity_id                1
+_struct_ref.id                       1
+_struct_ref.pdbx_align_begin         1
+_struct_ref.pdbx_align_end           84
+_struct_ref.pdbx_db_accession        P44220
+_struct_ref.pdbx_db_isoform          ?
+_struct_ref.pdbx_seq_one_letter_code 
+;MMNLILAFSGVIALYGGYLYLRLRQSQKQAATLQKEKEQLQTQKTVAETKVKNYQVKQKNEENLISRSRTSLLERMHNDG
+DLRD
+;
+#
+_struct_ref_seq.align_id                    1
+_struct_ref_seq.db_align_beg                1
+_struct_ref_seq.db_align_end                84
+_struct_ref_seq.pdbx_PDB_id_code            AF-P44220-F1
+_struct_ref_seq.pdbx_auth_seq_align_beg     1
+_struct_ref_seq.pdbx_auth_seq_align_end     84
+_struct_ref_seq.pdbx_db_accession           P44220
+_struct_ref_seq.pdbx_db_align_beg_ins_code  ?
+_struct_ref_seq.pdbx_db_align_end_ins_code  ?
+_struct_ref_seq.pdbx_seq_align_beg_ins_code ?
+_struct_ref_seq.pdbx_seq_align_end_ins_code ?
+_struct_ref_seq.pdbx_strand_id              A
+_struct_ref_seq.ref_id                      1
+_struct_ref_seq.seq_align_beg               1
+_struct_ref_seq.seq_align_end               84
+#
+loop_
+_atom_site.group_PDB
+_atom_site.id
+_atom_site.type_symbol
+_atom_site.label_atom_id
+_atom_site.label_alt_id
+_atom_site.label_comp_id
+_atom_site.label_asym_id
+_atom_site.label_entity_id
+_atom_site.label_seq_id
+_atom_site.pdbx_PDB_ins_code
+_atom_site.Cartn_x
+_atom_site.Cartn_y
+_atom_site.Cartn_z
+_atom_site.occupancy
+_atom_site.B_iso_or_equiv
+_atom_site.pdbx_formal_charge
+_atom_site.auth_seq_id
+_atom_site.auth_comp_id
+_atom_site.auth_asym_id
+_atom_site.auth_atom_id
+_atom_site.pdbx_PDB_model_num
+_atom_site.pdbx_sifts_xref_db_acc
+_atom_site.pdbx_sifts_xref_db_name
+_atom_site.pdbx_sifts_xref_db_num
+_atom_site.pdbx_sifts_xref_db_res
+ATOM 1   N N   . MET A 1 1  ? 44.279  24.920  -31.836 1.0 76.74 ? 1  MET A N   1 P44220 UNP 1  M 
+ATOM 2   C CA  . MET A 1 1  ? 42.926  25.349  -31.407 1.0 76.74 ? 1  MET A CA  1 P44220 UNP 1  M 
+ATOM 3   C C   . MET A 1 1  ? 41.846  24.333  -31.779 1.0 76.74 ? 1  MET A C   1 P44220 UNP 1  M 
+ATOM 4   C CB  . MET A 1 1  ? 42.592  26.779  -31.861 1.0 76.74 ? 1  MET A CB  1 P44220 UNP 1  M 
+ATOM 5   O O   . MET A 1 1  ? 41.231  23.809  -30.863 1.0 76.74 ? 1  MET A O   1 P44220 UNP 1  M 
+ATOM 6   C CG  . MET A 1 1  ? 43.577  27.788  -31.253 1.0 76.74 ? 1  MET A CG  1 P44220 UNP 1  M 
+ATOM 7   S SD  . MET A 1 1  ? 43.719  27.690  -29.449 1.0 76.74 ? 1  MET A SD  1 P44220 UNP 1  M 
+ATOM 8   C CE  . MET A 1 1  ? 42.407  28.848  -28.960 1.0 76.74 ? 1  MET A CE  1 P44220 UNP 1  M 
+ATOM 9   N N   . MET A 1 2  ? 41.663  23.975  -33.060 1.0 85.91 ? 2  MET A N   1 P44220 UNP 2  M 
+ATOM 10  C CA  . MET A 1 2  ? 40.630  23.010  -33.503 1.0 85.91 ? 2  MET A CA  1 P44220 UNP 2  M 
+ATOM 11  C C   . MET A 1 2  ? 40.680  21.654  -32.766 1.0 85.91 ? 2  MET A C   1 P44220 UNP 2  M 
+ATOM 12  C CB  . MET A 1 2  ? 40.773  22.794  -35.022 1.0 85.91 ? 2  MET A CB  1 P44220 UNP 2  M 
+ATOM 13  O O   . MET A 1 2  ? 39.672  21.203  -32.233 1.0 85.91 ? 2  MET A O   1 P44220 UNP 2  M 
+ATOM 14  C CG  . MET A 1 2  ? 39.532  22.152  -35.655 1.0 85.91 ? 2  MET A CG  1 P44220 UNP 2  M 
+ATOM 15  S SD  . MET A 1 2  ? 38.505  23.310  -36.598 1.0 85.91 ? 2  MET A SD  1 P44220 UNP 2  M 
+ATOM 16  C CE  . MET A 1 2  ? 39.493  23.460  -38.115 1.0 85.91 ? 2  MET A CE  1 P44220 UNP 2  M 
+ATOM 17  N N   . ASN A 1 3  ? 41.869  21.048  -32.647 1.0 88.31 ? 3  ASN A N   1 P44220 UNP 3  N 
+ATOM 18  C CA  . ASN A 1 3  ? 42.037  19.746  -31.981 1.0 88.31 ? 3  ASN A CA  1 P44220 UNP 3  N 
+ATOM 19  C C   . ASN A 1 3  ? 41.707  19.794  -30.479 1.0 88.31 ? 3  ASN A C   1 P44220 UNP 3  N 
+ATOM 20  C CB  . ASN A 1 3  ? 43.481  19.240  -32.189 1.0 88.31 ? 3  ASN A CB  1 P44220 UNP 3  N 
+ATOM 21  O O   . ASN A 1 3  ? 41.207  18.818  -29.928 1.0 88.31 ? 3  ASN A O   1 P44220 UNP 3  N 
+ATOM 22  C CG  . ASN A 1 3  ? 43.861  19.026  -33.645 1.0 88.31 ? 3  ASN A CG  1 P44220 UNP 3  N 
+ATOM 23  N ND2 . ASN A 1 3  ? 45.089  18.657  -33.917 1.0 88.31 ? 3  ASN A ND2 1 P44220 UNP 3  N 
+ATOM 24  O OD1 . ASN A 1 3  ? 43.086  19.250  -34.556 1.0 88.31 ? 3  ASN A OD1 1 P44220 UNP 3  N 
+ATOM 25  N N   . LEU A 1 4  ? 41.959  20.935  -29.825 1.0 88.50 ? 4  LEU A N   1 P44220 UNP 4  L 
+ATOM 26  C CA  . LEU A 1 4  ? 41.642  21.131  -28.411 1.0 88.50 ? 4  LEU A CA  1 P44220 UNP 4  L 
+ATOM 27  C C   . LEU A 1 4  ? 40.120  21.184  -28.214 1.0 88.50 ? 4  LEU A C   1 P44220 UNP 4  L 
+ATOM 28  C CB  . LEU A 1 4  ? 42.336  22.412  -27.906 1.0 88.50 ? 4  LEU A CB  1 P44220 UNP 4  L 
+ATOM 29  O O   . LEU A 1 4  ? 39.592  20.498  -27.348 1.0 88.50 ? 4  LEU A O   1 P44220 UNP 4  L 
+ATOM 30  C CG  . LEU A 1 4  ? 42.343  22.529  -26.370 1.0 88.50 ? 4  LEU A CG  1 P44220 UNP 4  L 
+ATOM 31  C CD1 . LEU A 1 4  ? 43.470  21.703  -25.749 1.0 88.50 ? 4  LEU A CD1 1 P44220 UNP 4  L 
+ATOM 32  C CD2 . LEU A 1 4  ? 42.520  23.987  -25.949 1.0 88.50 ? 4  LEU A CD2 1 P44220 UNP 4  L 
+ATOM 33  N N   . ILE A 1 5  ? 39.411  21.938  -29.062 1.0 89.63 ? 5  ILE A N   1 P44220 UNP 5  I 
+ATOM 34  C CA  . ILE A 1 5  ? 37.943  22.046  -29.024 1.0 89.63 ? 5  ILE A CA  1 P44220 UNP 5  I 
+ATOM 35  C C   . ILE A 1 5  ? 37.297  20.677  -29.264 1.0 89.63 ? 5  ILE A C   1 P44220 UNP 5  I 
+ATOM 36  C CB  . ILE A 1 5  ? 37.451  23.091  -30.054 1.0 89.63 ? 5  ILE A CB  1 P44220 UNP 5  I 
+ATOM 37  O O   . ILE A 1 5  ? 36.383  20.294  -28.534 1.0 89.63 ? 5  ILE A O   1 P44220 UNP 5  I 
+ATOM 38  C CG1 . ILE A 1 5  ? 37.987  24.498  -29.699 1.0 89.63 ? 5  ILE A CG1 1 P44220 UNP 5  I 
+ATOM 39  C CG2 . ILE A 1 5  ? 35.912  23.117  -30.124 1.0 89.63 ? 5  ILE A CG2 1 P44220 UNP 5  I 
+ATOM 40  C CD1 . ILE A 1 5  ? 37.827  25.523  -30.830 1.0 89.63 ? 5  ILE A CD1 1 P44220 UNP 5  I 
+ATOM 41  N N   . LEU A 1 6  ? 37.806  19.911  -30.235 1.0 90.21 ? 6  LEU A N   1 P44220 UNP 6  L 
+ATOM 42  C CA  . LEU A 1 6  ? 37.302  18.568  -30.513 1.0 90.21 ? 6  LEU A CA  1 P44220 UNP 6  L 
+ATOM 43  C C   . LEU A 1 6  ? 37.505  17.633  -29.311 1.0 90.21 ? 6  LEU A C   1 P44220 UNP 6  L 
+ATOM 44  C CB  . LEU A 1 6  ? 37.962  18.032  -31.795 1.0 90.21 ? 6  LEU A CB  1 P44220 UNP 6  L 
+ATOM 45  O O   . LEU A 1 6  ? 36.565  16.945  -28.913 1.0 90.21 ? 6  LEU A O   1 P44220 UNP 6  L 
+ATOM 46  C CG  . LEU A 1 6  ? 37.361  16.702  -32.292 1.0 90.21 ? 6  LEU A CG  1 P44220 UNP 6  L 
+ATOM 47  C CD1 . LEU A 1 6  ? 35.886  16.835  -32.677 1.0 90.21 ? 6  LEU A CD1 1 P44220 UNP 6  L 
+ATOM 48  C CD2 . LEU A 1 6  ? 38.131  16.229  -33.524 1.0 90.21 ? 6  LEU A CD2 1 P44220 UNP 6  L 
+ATOM 49  N N   . ALA A 1 7  ? 38.680  17.673  -28.673 1.0 89.46 ? 7  ALA A N   1 P44220 UNP 7  A 
+ATOM 50  C CA  . ALA A 1 7  ? 38.947  16.903  -27.459 1.0 89.46 ? 7  ALA A CA  1 P44220 UNP 7  A 
+ATOM 51  C C   . ALA A 1 7  ? 37.992  17.281  -26.311 1.0 89.46 ? 7  ALA A C   1 P44220 UNP 7  A 
+ATOM 52  C CB  . ALA A 1 7  ? 40.418  17.087  -27.067 1.0 89.46 ? 7  ALA A CB  1 P44220 UNP 7  A 
+ATOM 53  O O   . ALA A 1 7  ? 37.392  16.395  -25.703 1.0 89.46 ? 7  ALA A O   1 P44220 UNP 7  A 
+ATOM 54  N N   . PHE A 1 8  ? 37.773  18.578  -26.060 1.0 90.59 ? 8  PHE A N   1 P44220 UNP 8  F 
+ATOM 55  C CA  . PHE A 1 8  ? 36.813  19.042  -25.050 1.0 90.59 ? 8  PHE A CA  1 P44220 UNP 8  F 
+ATOM 56  C C   . PHE A 1 8  ? 35.385  18.583  -25.354 1.0 90.59 ? 8  PHE A C   1 P44220 UNP 8  F 
+ATOM 57  C CB  . PHE A 1 8  ? 36.866  20.572  -24.916 1.0 90.59 ? 8  PHE A CB  1 P44220 UNP 8  F 
+ATOM 58  O O   . PHE A 1 8  ? 34.694  18.111  -24.453 1.0 90.59 ? 8  PHE A O   1 P44220 UNP 8  F 
+ATOM 59  C CG  . PHE A 1 8  ? 37.876  21.053  -23.895 1.0 90.59 ? 8  PHE A CG  1 P44220 UNP 8  F 
+ATOM 60  C CD1 . PHE A 1 8  ? 37.579  20.963  -22.523 1.0 90.59 ? 8  PHE A CD1 1 P44220 UNP 8  F 
+ATOM 61  C CD2 . PHE A 1 8  ? 39.107  21.596  -24.300 1.0 90.59 ? 8  PHE A CD2 1 P44220 UNP 8  F 
+ATOM 62  C CE1 . PHE A 1 8  ? 38.513  21.398  -21.567 1.0 90.59 ? 8  PHE A CE1 1 P44220 UNP 8  F 
+ATOM 63  C CE2 . PHE A 1 8  ? 40.051  22.013  -23.346 1.0 90.59 ? 8  PHE A CE2 1 P44220 UNP 8  F 
+ATOM 64  C CZ  . PHE A 1 8  ? 39.754  21.914  -21.978 1.0 90.59 ? 8  PHE A CZ  1 P44220 UNP 8  F 
+ATOM 65  N N   . SER A 1 9  ? 34.949  18.660  -26.615 1.0 90.02 ? 9  SER A N   1 P44220 UNP 9  S 
+ATOM 66  C CA  . SER A 1 9  ? 33.614  18.201  -27.015 1.0 90.02 ? 9  SER A CA  1 P44220 UNP 9  S 
+ATOM 67  C C   . SER A 1 9  ? 33.424  16.698  -26.778 1.0 90.02 ? 9  SER A C   1 P44220 UNP 9  S 
+ATOM 68  C CB  . SER A 1 9  ? 33.328  18.582  -28.471 1.0 90.02 ? 9  SER A CB  1 P44220 UNP 9  S 
+ATOM 69  O O   . SER A 1 9  ? 32.380  16.287  -26.272 1.0 90.02 ? 9  SER A O   1 P44220 UNP 9  S 
+ATOM 70  O OG  . SER A 1 9  ? 34.033  17.783  -29.400 1.0 90.02 ? 9  SER A OG  1 P44220 UNP 9  S 
+ATOM 71  N N   . GLY A 1 10 ? 34.458  15.890  -27.045 1.0 90.49 ? 10 GLY A N   1 P44220 UNP 10 G 
+ATOM 72  C CA  . GLY A 1 10 ? 34.457  14.457  -26.767 1.0 90.49 ? 10 GLY A CA  1 P44220 UNP 10 G 
+ATOM 73  C C   . GLY A 1 10 ? 34.340  14.162  -25.272 1.0 90.49 ? 10 GLY A C   1 P44220 UNP 10 G 
+ATOM 74  O O   . GLY A 1 10 ? 33.519  13.340  -24.872 1.0 90.49 ? 10 GLY A O   1 P44220 UNP 10 G 
+ATOM 75  N N   . VAL A 1 11 ? 35.089  14.882  -24.430 1.0 92.34 ? 11 VAL A N   1 P44220 UNP 11 V 
+ATOM 76  C CA  . VAL A 1 11 ? 35.006  14.738  -22.966 1.0 92.34 ? 11 VAL A CA  1 P44220 UNP 11 V 
+ATOM 77  C C   . VAL A 1 11 ? 33.621  15.129  -22.445 1.0 92.34 ? 11 VAL A C   1 P44220 UNP 11 V 
+ATOM 78  C CB  . VAL A 1 11 ? 36.115  15.549  -22.265 1.0 92.34 ? 11 VAL A CB  1 P44220 UNP 11 V 
+ATOM 79  O O   . VAL A 1 11 ? 33.054  14.405  -21.629 1.0 92.34 ? 11 VAL A O   1 P44220 UNP 11 V 
+ATOM 80  C CG1 . VAL A 1 11 ? 35.986  15.510  -20.736 1.0 92.34 ? 11 VAL A CG1 1 P44220 UNP 11 V 
+ATOM 81  C CG2 . VAL A 1 11 ? 37.501  14.987  -22.609 1.0 92.34 ? 11 VAL A CG2 1 P44220 UNP 11 V 
+ATOM 82  N N   . ILE A 1 12 ? 33.038  16.224  -22.944 1.0 92.53 ? 12 ILE A N   1 P44220 UNP 12 I 
+ATOM 83  C CA  . ILE A 1 12 ? 31.690  16.667  -22.557 1.0 92.53 ? 12 ILE A CA  1 P44220 UNP 12 I 
+ATOM 84  C C   . ILE A 1 12 ? 30.637  15.636  -22.976 1.0 92.53 ? 12 ILE A C   1 P44220 UNP 12 I 
+ATOM 85  C CB  . ILE A 1 12 ? 31.388  18.066  -23.141 1.0 92.53 ? 12 ILE A CB  1 P44220 UNP 12 I 
+ATOM 86  O O   . ILE A 1 12 ? 29.762  15.305  -22.178 1.0 92.53 ? 12 ILE A O   1 P44220 UNP 12 I 
+ATOM 87  C CG1 . ILE A 1 12 ? 32.287  19.131  -22.471 1.0 92.53 ? 12 ILE A CG1 1 P44220 UNP 12 I 
+ATOM 88  C CG2 . ILE A 1 12 ? 29.906  18.449  -22.946 1.0 92.53 ? 12 ILE A CG2 1 P44220 UNP 12 I 
+ATOM 89  C CD1 . ILE A 1 12 ? 32.320  20.468  -23.223 1.0 92.53 ? 12 ILE A CD1 1 P44220 UNP 12 I 
+ATOM 90  N N   . ALA A 1 13 ? 30.729  15.090  -24.192 1.0 92.49 ? 13 ALA A N   1 P44220 UNP 13 A 
+ATOM 91  C CA  . ALA A 1 13 ? 29.806  14.066  -24.673 1.0 92.49 ? 13 ALA A CA  1 P44220 UNP 13 A 
+ATOM 92  C C   . ALA A 1 13 ? 29.902  12.774  -23.846 1.0 92.49 ? 13 ALA A C   1 P44220 UNP 13 A 
+ATOM 93  C CB  . ALA A 1 13 ? 30.090  13.811  -26.157 1.0 92.49 ? 13 ALA A CB  1 P44220 UNP 13 A 
+ATOM 94  O O   . ALA A 1 13 ? 28.876  12.209  -23.464 1.0 92.49 ? 13 ALA A O   1 P44220 UNP 13 A 
+ATOM 95  N N   . LEU A 1 14 ? 31.120  12.337  -23.506 1.0 92.08 ? 14 LEU A N   1 P44220 UNP 14 L 
+ATOM 96  C CA  . LEU A 1 14 ? 31.342  11.181  -22.635 1.0 92.08 ? 14 LEU A CA  1 P44220 UNP 14 L 
+ATOM 97  C C   . LEU A 1 14 ? 30.795  11.422  -21.225 1.0 92.08 ? 14 LEU A C   1 P44220 UNP 14 L 
+ATOM 98  C CB  . LEU A 1 14 ? 32.844  10.852  -22.582 1.0 92.08 ? 14 LEU A CB  1 P44220 UNP 14 L 
+ATOM 99  O O   . LEU A 1 14 ? 30.122  10.553  -20.670 1.0 92.08 ? 14 LEU A O   1 P44220 UNP 14 L 
+ATOM 100 C CG  . LEU A 1 14 ? 33.414  10.235  -23.872 1.0 92.08 ? 14 LEU A CG  1 P44220 UNP 14 L 
+ATOM 101 C CD1 . LEU A 1 14 ? 34.930  10.097  -23.733 1.0 92.08 ? 14 LEU A CD1 1 P44220 UNP 14 L 
+ATOM 102 C CD2 . LEU A 1 14 ? 32.828  8.852   -24.162 1.0 92.08 ? 14 LEU A CD2 1 P44220 UNP 14 L 
+ATOM 103 N N   . TYR A 1 15 ? 31.028  12.607  -20.660 1.0 91.83 ? 15 TYR A N   1 P44220 UNP 15 Y 
+ATOM 104 C CA  . TYR A 1 15 ? 30.531  12.962  -19.334 1.0 91.83 ? 15 TYR A CA  1 P44220 UNP 15 Y 
+ATOM 105 C C   . TYR A 1 15 ? 28.999  13.055  -19.304 1.0 91.83 ? 15 TYR A C   1 P44220 UNP 15 Y 
+ATOM 106 C CB  . TYR A 1 15 ? 31.188  14.270  -18.886 1.0 91.83 ? 15 TYR A CB  1 P44220 UNP 15 Y 
+ATOM 107 O O   . TYR A 1 15 ? 28.356  12.489  -18.419 1.0 91.83 ? 15 TYR A O   1 P44220 UNP 15 Y 
+ATOM 108 C CG  . TYR A 1 15 ? 30.982  14.549  -17.415 1.0 91.83 ? 15 TYR A CG  1 P44220 UNP 15 Y 
+ATOM 109 C CD1 . TYR A 1 15 ? 29.984  15.446  -16.990 1.0 91.83 ? 15 TYR A CD1 1 P44220 UNP 15 Y 
+ATOM 110 C CD2 . TYR A 1 15 ? 31.792  13.892  -16.469 1.0 91.83 ? 15 TYR A CD2 1 P44220 UNP 15 Y 
+ATOM 111 C CE1 . TYR A 1 15 ? 29.808  15.694  -15.616 1.0 91.83 ? 15 TYR A CE1 1 P44220 UNP 15 Y 
+ATOM 112 C CE2 . TYR A 1 15 ? 31.606  14.125  -15.094 1.0 91.83 ? 15 TYR A CE2 1 P44220 UNP 15 Y 
+ATOM 113 O OH  . TYR A 1 15 ? 30.415  15.256  -13.343 1.0 91.83 ? 15 TYR A OH  1 P44220 UNP 15 Y 
+ATOM 114 C CZ  . TYR A 1 15 ? 30.607  15.026  -14.667 1.0 91.83 ? 15 TYR A CZ  1 P44220 UNP 15 Y 
+ATOM 115 N N   . GLY A 1 16 ? 28.397  13.694  -20.311 1.0 92.00 ? 16 GLY A N   1 P44220 UNP 16 G 
+ATOM 116 C CA  . GLY A 1 16 ? 26.946  13.773  -20.474 1.0 92.00 ? 16 GLY A CA  1 P44220 UNP 16 G 
+ATOM 117 C C   . GLY A 1 16 ? 26.305  12.397  -20.665 1.0 92.00 ? 16 GLY A C   1 P44220 UNP 16 G 
+ATOM 118 O O   . GLY A 1 16 ? 25.314  12.079  -20.005 1.0 92.00 ? 16 GLY A O   1 P44220 UNP 16 G 
+ATOM 119 N N   . GLY A 1 17 ? 26.908  11.541  -21.495 1.0 92.71 ? 17 GLY A N   1 P44220 UNP 17 G 
+ATOM 120 C CA  . GLY A 1 17 ? 26.474  10.156  -21.685 1.0 92.71 ? 17 GLY A CA  1 P44220 UNP 17 G 
+ATOM 121 C C   . GLY A 1 17 ? 26.559  9.329   -20.399 1.0 92.71 ? 17 GLY A C   1 P44220 UNP 17 G 
+ATOM 122 O O   . GLY A 1 17 ? 25.613  8.616   -20.057 1.0 92.71 ? 17 GLY A O   1 P44220 UNP 17 G 
+ATOM 123 N N   . TYR A 1 18 ? 27.647  9.471   -19.638 1.0 92.01 ? 18 TYR A N   1 P44220 UNP 18 Y 
+ATOM 124 C CA  . TYR A 1 18 ? 27.823  8.808   -18.345 1.0 92.01 ? 18 TYR A CA  1 P44220 UNP 18 Y 
+ATOM 125 C C   . TYR A 1 18 ? 26.762  9.244   -17.323 1.0 92.01 ? 18 TYR A C   1 P44220 UNP 18 Y 
+ATOM 126 C CB  . TYR A 1 18 ? 29.241  9.080   -17.826 1.0 92.01 ? 18 TYR A CB  1 P44220 UNP 18 Y 
+ATOM 127 O O   . TYR A 1 18 ? 26.141  8.395   -16.676 1.0 92.01 ? 18 TYR A O   1 P44220 UNP 18 Y 
+ATOM 128 C CG  . TYR A 1 18 ? 29.503  8.483   -16.458 1.0 92.01 ? 18 TYR A CG  1 P44220 UNP 18 Y 
+ATOM 129 C CD1 . TYR A 1 18 ? 29.404  9.290   -15.309 1.0 92.01 ? 18 TYR A CD1 1 P44220 UNP 18 Y 
+ATOM 130 C CD2 . TYR A 1 18 ? 29.812  7.115   -16.336 1.0 92.01 ? 18 TYR A CD2 1 P44220 UNP 18 Y 
+ATOM 131 C CE1 . TYR A 1 18 ? 29.605  8.728   -14.035 1.0 92.01 ? 18 TYR A CE1 1 P44220 UNP 18 Y 
+ATOM 132 C CE2 . TYR A 1 18 ? 30.018  6.547   -15.063 1.0 92.01 ? 18 TYR A CE2 1 P44220 UNP 18 Y 
+ATOM 133 O OH  . TYR A 1 18 ? 30.076  6.820   -12.671 1.0 92.01 ? 18 TYR A OH  1 P44220 UNP 18 Y 
+ATOM 134 C CZ  . TYR A 1 18 ? 29.909  7.356   -13.910 1.0 92.01 ? 18 TYR A CZ  1 P44220 UNP 18 Y 
+ATOM 135 N N   . LEU A 1 19 ? 26.496  10.551  -17.213 1.0 91.26 ? 19 LEU A N   1 P44220 UNP 19 L 
+ATOM 136 C CA  . LEU A 1 19 ? 25.442  11.076  -16.343 1.0 91.26 ? 19 LEU A CA  1 P44220 UNP 19 L 
+ATOM 137 C C   . LEU A 1 19 ? 24.059  10.556  -16.747 1.0 91.26 ? 19 LEU A C   1 P44220 UNP 19 L 
+ATOM 138 C CB  . LEU A 1 19 ? 25.463  12.614  -16.355 1.0 91.26 ? 19 LEU A CB  1 P44220 UNP 19 L 
+ATOM 139 O O   . LEU A 1 19 ? 23.297  10.133  -15.878 1.0 91.26 ? 19 LEU A O   1 P44220 UNP 19 L 
+ATOM 140 C CG  . LEU A 1 19 ? 26.620  13.264  -15.576 1.0 91.26 ? 19 LEU A CG  1 P44220 UNP 19 L 
+ATOM 141 C CD1 . LEU A 1 19 ? 26.495  14.781  -15.724 1.0 91.26 ? 19 LEU A CD1 1 P44220 UNP 19 L 
+ATOM 142 C CD2 . LEU A 1 19 ? 26.591  12.921  -14.083 1.0 91.26 ? 19 LEU A CD2 1 P44220 UNP 19 L 
+ATOM 143 N N   . TYR A 1 20 ? 23.749  10.513  -18.045 1.0 89.22 ? 20 TYR A N   1 P44220 UNP 20 Y 
+ATOM 144 C CA  . TYR A 1 20 ? 22.474  9.996   -18.544 1.0 89.22 ? 20 TYR A CA  1 P44220 UNP 20 Y 
+ATOM 145 C C   . TYR A 1 20 ? 22.264  8.515   -18.190 1.0 89.22 ? 20 TYR A C   1 P44220 UNP 20 Y 
+ATOM 146 C CB  . TYR A 1 20 ? 22.402  10.219  -20.060 1.0 89.22 ? 20 TYR A CB  1 P44220 UNP 20 Y 
+ATOM 147 O O   . TYR A 1 20 ? 21.199  8.128   -17.697 1.0 89.22 ? 20 TYR A O   1 P44220 UNP 20 Y 
+ATOM 148 C CG  . TYR A 1 20 ? 21.091  9.762   -20.664 1.0 89.22 ? 20 TYR A CG  1 P44220 UNP 20 Y 
+ATOM 149 C CD1 . TYR A 1 20 ? 20.994  8.496   -21.272 1.0 89.22 ? 20 TYR A CD1 1 P44220 UNP 20 Y 
+ATOM 150 C CD2 . TYR A 1 20 ? 19.962  10.601  -20.593 1.0 89.22 ? 20 TYR A CD2 1 P44220 UNP 20 Y 
+ATOM 151 C CE1 . TYR A 1 20 ? 19.764  8.066   -21.806 1.0 89.22 ? 20 TYR A CE1 1 P44220 UNP 20 Y 
+ATOM 152 C CE2 . TYR A 1 20 ? 18.732  10.178  -21.131 1.0 89.22 ? 20 TYR A CE2 1 P44220 UNP 20 Y 
+ATOM 153 O OH  . TYR A 1 20 ? 17.448  8.480   -22.248 1.0 89.22 ? 20 TYR A OH  1 P44220 UNP 20 Y 
+ATOM 154 C CZ  . TYR A 1 20 ? 18.633  8.906   -21.736 1.0 89.22 ? 20 TYR A CZ  1 P44220 UNP 20 Y 
+ATOM 155 N N   . LEU A 1 21 ? 23.292  7.678   -18.376 1.0 89.10 ? 21 LEU A N   1 P44220 UNP 21 L 
+ATOM 156 C CA  . LEU A 1 21 ? 23.235  6.259   -18.009 1.0 89.10 ? 21 LEU A CA  1 P44220 UNP 21 L 
+ATOM 157 C C   . LEU A 1 21 ? 23.065  6.065   -16.498 1.0 89.10 ? 21 LEU A C   1 P44220 UNP 21 L 
+ATOM 158 C CB  . LEU A 1 21 ? 24.500  5.542   -18.512 1.0 89.10 ? 21 LEU A CB  1 P44220 UNP 21 L 
+ATOM 159 O O   . LEU A 1 21 ? 22.245  5.245   -16.074 1.0 89.10 ? 21 LEU A O   1 P44220 UNP 21 L 
+ATOM 160 C CG  . LEU A 1 21 ? 24.586  5.381   -20.041 1.0 89.10 ? 21 LEU A CG  1 P44220 UNP 21 L 
+ATOM 161 C CD1 . LEU A 1 21 ? 25.921  4.730   -20.402 1.0 89.10 ? 21 LEU A CD1 1 P44220 UNP 21 L 
+ATOM 162 C CD2 . LEU A 1 21 ? 23.457  4.507   -20.598 1.0 89.10 ? 21 LEU A CD2 1 P44220 UNP 21 L 
+ATOM 163 N N   . ARG A 1 22 ? 23.782  6.850   -15.685 1.0 87.81 ? 22 ARG A N   1 P44220 UNP 22 R 
+ATOM 164 C CA  . ARG A 1 22 ? 23.692  6.801   -14.219 1.0 87.81 ? 22 ARG A CA  1 P44220 UNP 22 R 
+ATOM 165 C C   . ARG A 1 22 ? 22.320  7.249   -13.713 1.0 87.81 ? 22 ARG A C   1 P44220 UNP 22 R 
+ATOM 166 C CB  . ARG A 1 22 ? 24.843  7.632   -13.634 1.0 87.81 ? 22 ARG A CB  1 P44220 UNP 22 R 
+ATOM 167 O O   . ARG A 1 22 ? 21.762  6.607   -12.823 1.0 87.81 ? 22 ARG A O   1 P44220 UNP 22 R 
+ATOM 168 C CG  . ARG A 1 22 ? 25.005  7.412   -12.125 1.0 87.81 ? 22 ARG A CG  1 P44220 UNP 22 R 
+ATOM 169 C CD  . ARG A 1 22 ? 26.326  8.025   -11.649 1.0 87.81 ? 22 ARG A CD  1 P44220 UNP 22 R 
+ATOM 170 N NE  . ARG A 1 22 ? 26.538  7.807   -10.205 1.0 87.81 ? 22 ARG A NE  1 P44220 UNP 22 R 
+ATOM 171 N NH1 . ARG A 1 22 ? 28.746  8.443   -10.134 1.0 87.81 ? 22 ARG A NH1 1 P44220 UNP 22 R 
+ATOM 172 N NH2 . ARG A 1 22 ? 27.701  7.877   -8.247  1.0 87.81 ? 22 ARG A NH2 1 P44220 UNP 22 R 
+ATOM 173 C CZ  . ARG A 1 22 ? 27.655  8.046   -9.539  1.0 87.81 ? 22 ARG A CZ  1 P44220 UNP 22 R 
+ATOM 174 N N   . LEU A 1 23 ? 21.735  8.285   -14.320 1.0 82.20 ? 23 LEU A N   1 P44220 UNP 23 L 
+ATOM 175 C CA  . LEU A 1 23 ? 20.380  8.739   -14.004 1.0 82.20 ? 23 LEU A CA  1 P44220 UNP 23 L 
+ATOM 176 C C   . LEU A 1 23 ? 19.356  7.643   -14.318 1.0 82.20 ? 23 LEU A C   1 P44220 UNP 23 L 
+ATOM 177 C CB  . LEU A 1 23 ? 20.063  10.037  -14.776 1.0 82.20 ? 23 LEU A CB  1 P44220 UNP 23 L 
+ATOM 178 O O   . LEU A 1 23 ? 18.520  7.317   -13.482 1.0 82.20 ? 23 LEU A O   1 P44220 UNP 23 L 
+ATOM 179 C CG  . LEU A 1 23 ? 19.140  10.979  -13.984 1.0 82.20 ? 23 LEU A CG  1 P44220 UNP 23 L 
+ATOM 180 C CD1 . LEU A 1 23 ? 19.951  11.780  -12.961 1.0 82.20 ? 23 LEU A CD1 1 P44220 UNP 23 L 
+ATOM 181 C CD2 . LEU A 1 23 ? 18.444  11.963  -14.921 1.0 82.20 ? 23 LEU A CD2 1 P44220 UNP 23 L 
+ATOM 182 N N   . ARG A 1 24 ? 19.465  6.998   -15.486 1.0 81.71 ? 24 ARG A N   1 P44220 UNP 24 R 
+ATOM 183 C CA  . ARG A 1 24 ? 18.560  5.912   -15.888 1.0 81.71 ? 24 ARG A CA  1 P44220 UNP 24 R 
+ATOM 184 C C   . ARG A 1 24 ? 18.682  4.679   -14.986 1.0 81.71 ? 24 ARG A C   1 P44220 UNP 24 R 
+ATOM 185 C CB  . ARG A 1 24 ? 18.815  5.587   -17.366 1.0 81.71 ? 24 ARG A CB  1 P44220 UNP 24 R 
+ATOM 186 O O   . ARG A 1 24 ? 17.673  4.036   -14.706 1.0 81.71 ? 24 ARG A O   1 P44220 UNP 24 R 
+ATOM 187 C CG  . ARG A 1 24 ? 17.681  4.752   -17.976 1.0 81.71 ? 24 ARG A CG  1 P44220 UNP 24 R 
+ATOM 188 C CD  . ARG A 1 24 ? 17.937  4.538   -19.471 1.0 81.71 ? 24 ARG A CD  1 P44220 UNP 24 R 
+ATOM 189 N NE  . ARG A 1 24 ? 16.853  3.761   -20.106 1.0 81.71 ? 24 ARG A NE  1 P44220 UNP 24 R 
+ATOM 190 N NH1 . ARG A 1 24 ? 17.810  3.590   -22.189 1.0 81.71 ? 24 ARG A NH1 1 P44220 UNP 24 R 
+ATOM 191 N NH2 . ARG A 1 24 ? 15.807  2.685   -21.825 1.0 81.71 ? 24 ARG A NH2 1 P44220 UNP 24 R 
+ATOM 192 C CZ  . ARG A 1 24 ? 16.829  3.350   -21.364 1.0 81.71 ? 24 ARG A CZ  1 P44220 UNP 24 R 
+ATOM 193 N N   . GLN A 1 25 ? 19.886  4.350   -14.515 1.0 80.39 ? 25 GLN A N   1 P44220 UNP 25 Q 
+ATOM 194 C CA  . GLN A 1 25 ? 20.088  3.285   -13.526 1.0 80.39 ? 25 GLN A CA  1 P44220 UNP 25 Q 
+ATOM 195 C C   . GLN A 1 25 ? 19.458  3.627   -12.170 1.0 80.39 ? 25 GLN A C   1 P44220 UNP 25 Q 
+ATOM 196 C CB  . GLN A 1 25 ? 21.583  3.004   -13.340 1.0 80.39 ? 25 GLN A CB  1 P44220 UNP 25 Q 
+ATOM 197 O O   . GLN A 1 25 ? 18.825  2.760   -11.568 1.0 80.39 ? 25 GLN A O   1 P44220 UNP 25 Q 
+ATOM 198 C CG  . GLN A 1 25 ? 22.183  2.154   -14.469 1.0 80.39 ? 25 GLN A CG  1 P44220 UNP 25 Q 
+ATOM 199 C CD  . GLN A 1 25 ? 23.658  1.843   -14.223 1.0 80.39 ? 25 GLN A CD  1 P44220 UNP 25 Q 
+ATOM 200 N NE2 . GLN A 1 25 ? 24.249  0.937   -14.970 1.0 80.39 ? 25 GLN A NE2 1 P44220 UNP 25 Q 
+ATOM 201 O OE1 . GLN A 1 25 ? 24.308  2.402   -13.358 1.0 80.39 ? 25 GLN A OE1 1 P44220 UNP 25 Q 
+ATOM 202 N N   . SER A 1 26 ? 19.581  4.877   -11.713 1.0 73.98 ? 26 SER A N   1 P44220 UNP 26 S 
+ATOM 203 C CA  . SER A 1 26 ? 18.935  5.336   -10.477 1.0 73.98 ? 26 SER A CA  1 P44220 UNP 26 S 
+ATOM 204 C C   . SER A 1 26 ? 17.411  5.313   -10.599 1.0 73.98 ? 26 SER A C   1 P44220 UNP 26 S 
+ATOM 205 C CB  . SER A 1 26 ? 19.416  6.741   -10.114 1.0 73.98 ? 26 SER A CB  1 P44220 UNP 26 S 
+ATOM 206 O O   . SER A 1 26 ? 16.735  4.777   -9.729  1.0 73.98 ? 26 SER A O   1 P44220 UNP 26 S 
+ATOM 207 O OG  . SER A 1 26 ? 18.978  7.044   -8.809  1.0 73.98 ? 26 SER A OG  1 P44220 UNP 26 S 
+ATOM 208 N N   . GLN A 1 27 ? 16.860  5.767   -11.731 1.0 69.79 ? 27 GLN A N   1 P44220 UNP 27 Q 
+ATOM 209 C CA  . GLN A 1 27 ? 15.416  5.736   -11.986 1.0 69.79 ? 27 GLN A CA  1 P44220 UNP 27 Q 
+ATOM 210 C C   . GLN A 1 27 ? 14.853  4.312   -11.979 1.0 69.79 ? 27 GLN A C   1 P44220 UNP 27 Q 
+ATOM 211 C CB  . GLN A 1 27 ? 15.094  6.418   -13.328 1.0 69.79 ? 27 GLN A CB  1 P44220 UNP 27 Q 
+ATOM 212 O O   . GLN A 1 27 ? 13.744  4.103   -11.497 1.0 69.79 ? 27 GLN A O   1 P44220 UNP 27 Q 
+ATOM 213 C CG  . GLN A 1 27 ? 15.324  7.938   -13.339 1.0 69.79 ? 27 GLN A CG  1 P44220 UNP 27 Q 
+ATOM 214 C CD  . GLN A 1 27 ? 14.316  8.699   -12.490 1.0 69.79 ? 27 GLN A CD  1 P44220 UNP 27 Q 
+ATOM 215 N NE2 . GLN A 1 27 ? 13.410  9.444   -13.082 1.0 69.79 ? 27 GLN A NE2 1 P44220 UNP 27 Q 
+ATOM 216 O OE1 . GLN A 1 27 ? 14.329  8.636   -11.277 1.0 69.79 ? 27 GLN A OE1 1 P44220 UNP 27 Q 
+ATOM 217 N N   . LYS A 1 28 ? 15.606  3.311   -12.460 1.0 70.77 ? 28 LYS A N   1 P44220 UNP 28 K 
+ATOM 218 C CA  . LYS A 1 28 ? 15.187  1.904   -12.347 1.0 70.77 ? 28 LYS A CA  1 P44220 UNP 28 K 
+ATOM 219 C C   . LYS A 1 28 ? 15.051  1.471   -10.886 1.0 70.77 ? 28 LYS A C   1 P44220 UNP 28 K 
+ATOM 220 C CB  . LYS A 1 28 ? 16.149  0.971   -13.095 1.0 70.77 ? 28 LYS A CB  1 P44220 UNP 28 K 
+ATOM 221 O O   . LYS A 1 28 ? 14.051  0.850   -10.549 1.0 70.77 ? 28 LYS A O   1 P44220 UNP 28 K 
+ATOM 222 C CG  . LYS A 1 28 ? 15.959  1.021   -14.617 1.0 70.77 ? 28 LYS A CG  1 P44220 UNP 28 K 
+ATOM 223 C CD  . LYS A 1 28 ? 16.896  0.006   -15.284 1.0 70.77 ? 28 LYS A CD  1 P44220 UNP 28 K 
+ATOM 224 C CE  . LYS A 1 28 ? 16.701  -0.008  -16.803 1.0 70.77 ? 28 LYS A CE  1 P44220 UNP 28 K 
+ATOM 225 N NZ  . LYS A 1 28 ? 17.465  -1.120  -17.427 1.0 70.77 ? 28 LYS A NZ  1 P44220 UNP 28 K 
+ATOM 226 N N   . GLN A 1 29 ? 16.016  1.832   -10.039 1.0 68.97 ? 29 GLN A N   1 P44220 UNP 29 Q 
+ATOM 227 C CA  . GLN A 1 29 ? 16.006  1.496   -8.611  1.0 68.97 ? 29 GLN A CA  1 P44220 UNP 29 Q 
+ATOM 228 C C   . GLN A 1 29 ? 14.944  2.287   -7.833  1.0 68.97 ? 29 GLN A C   1 P44220 UNP 29 Q 
+ATOM 229 C CB  . GLN A 1 29 ? 17.397  1.749   -8.016  1.0 68.97 ? 29 GLN A CB  1 P44220 UNP 29 Q 
+ATOM 230 O O   . GLN A 1 29 ? 14.252  1.734   -6.980  1.0 68.97 ? 29 GLN A O   1 P44220 UNP 29 Q 
+ATOM 231 C CG  . GLN A 1 29 ? 18.447  0.774   -8.563  1.0 68.97 ? 29 GLN A CG  1 P44220 UNP 29 Q 
+ATOM 232 C CD  . GLN A 1 29 ? 19.820  1.065   -7.975  1.0 68.97 ? 29 GLN A CD  1 P44220 UNP 29 Q 
+ATOM 233 N NE2 . GLN A 1 29 ? 20.738  1.602   -8.748  1.0 68.97 ? 29 GLN A NE2 1 P44220 UNP 29 Q 
+ATOM 234 O OE1 . GLN A 1 29 ? 20.089  0.836   -6.812  1.0 68.97 ? 29 GLN A OE1 1 P44220 UNP 29 Q 
+ATOM 235 N N   . ALA A 1 30 ? 14.768  3.569   -8.157  1.0 67.78 ? 30 ALA A N   1 P44220 UNP 30 A 
+ATOM 236 C CA  . ALA A 1 30 ? 13.741  4.415   -7.564  1.0 67.78 ? 30 ALA A CA  1 P44220 UNP 30 A 
+ATOM 237 C C   . ALA A 1 30 ? 12.338  3.930   -7.946  1.0 67.78 ? 30 ALA A C   1 P44220 UNP 30 A 
+ATOM 238 C CB  . ALA A 1 30 ? 13.980  5.865   -7.995  1.0 67.78 ? 30 ALA A CB  1 P44220 UNP 30 A 
+ATOM 239 O O   . ALA A 1 30 ? 11.479  3.835   -7.079  1.0 67.78 ? 30 ALA A O   1 P44220 UNP 30 A 
+ATOM 240 N N   . ALA A 1 31 ? 12.117  3.540   -9.205  1.0 66.50 ? 31 ALA A N   1 P44220 UNP 31 A 
+ATOM 241 C CA  . ALA A 1 31 ? 10.837  2.999   -9.652  1.0 66.50 ? 31 ALA A CA  1 P44220 UNP 31 A 
+ATOM 242 C C   . ALA A 1 31 ? 10.508  1.656   -8.984  1.0 66.50 ? 31 ALA A C   1 P44220 UNP 31 A 
+ATOM 243 C CB  . ALA A 1 31 ? 10.856  2.866   -11.178 1.0 66.50 ? 31 ALA A CB  1 P44220 UNP 31 A 
+ATOM 244 O O   . ALA A 1 31 ? 9.351   1.419   -8.641  1.0 66.50 ? 31 ALA A O   1 P44220 UNP 31 A 
+ATOM 245 N N   . THR A 1 32 ? 11.498  0.779   -8.771  1.0 68.39 ? 32 THR A N   1 P44220 UNP 32 T 
+ATOM 246 C CA  . THR A 1 32 ? 11.273  -0.467  -8.020  1.0 68.39 ? 32 THR A CA  1 P44220 UNP 32 T 
+ATOM 247 C C   . THR A 1 32 ? 10.951  -0.185  -6.559  1.0 68.39 ? 32 THR A C   1 P44220 UNP 32 T 
+ATOM 248 C CB  . THR A 1 32 ? 12.451  -1.451  -8.125  1.0 68.39 ? 32 THR A CB  1 P44220 UNP 32 T 
+ATOM 249 O O   . THR A 1 32 ? 9.984   -0.737  -6.041  1.0 68.39 ? 32 THR A O   1 P44220 UNP 32 T 
+ATOM 250 C CG2 . THR A 1 32 ? 12.520  -2.071  -9.520  1.0 68.39 ? 32 THR A CG2 1 P44220 UNP 32 T 
+ATOM 251 O OG1 . THR A 1 32 ? 13.697  -0.835  -7.912  1.0 68.39 ? 32 THR A OG1 1 P44220 UNP 32 T 
+ATOM 252 N N   . LEU A 1 33 ? 11.687  0.731   -5.919  1.0 67.20 ? 33 LEU A N   1 P44220 UNP 33 L 
+ATOM 253 C CA  . LEU A 1 33 ? 11.472  1.065   -4.513  1.0 67.20 ? 33 LEU A CA  1 P44220 UNP 33 L 
+ATOM 254 C C   . LEU A 1 33 ? 10.141  1.799   -4.297  1.0 67.20 ? 33 LEU A C   1 P44220 UNP 33 L 
+ATOM 255 C CB  . LEU A 1 33 ? 12.677  1.882   -4.013  1.0 67.20 ? 33 LEU A CB  1 P44220 UNP 33 L 
+ATOM 256 O O   . LEU A 1 33 ? 9.446   1.532   -3.323  1.0 67.20 ? 33 LEU A O   1 P44220 UNP 33 L 
+ATOM 257 C CG  . LEU A 1 33 ? 12.760  1.995   -2.480  1.0 67.20 ? 33 LEU A CG  1 P44220 UNP 33 L 
+ATOM 258 C CD1 . LEU A 1 33 ? 13.046  0.645   -1.818  1.0 67.20 ? 33 LEU A CD1 1 P44220 UNP 33 L 
+ATOM 259 C CD2 . LEU A 1 33 ? 13.890  2.953   -2.099  1.0 67.20 ? 33 LEU A CD2 1 P44220 UNP 33 L 
+ATOM 260 N N   . GLN A 1 34 ? 9.752   2.689   -5.213  1.0 68.20 ? 34 GLN A N   1 P44220 UNP 34 Q 
+ATOM 261 C CA  . GLN A 1 34 ? 8.476   3.400   -5.158  1.0 68.20 ? 34 GLN A CA  1 P44220 UNP 34 Q 
+ATOM 262 C C   . GLN A 1 34 ? 7.299   2.436   -5.322  1.0 68.20 ? 34 GLN A C   1 P44220 UNP 34 Q 
+ATOM 263 C CB  . GLN A 1 34 ? 8.466   4.517   -6.210  1.0 68.20 ? 34 GLN A CB  1 P44220 UNP 34 Q 
+ATOM 264 O O   . GLN A 1 34 ? 6.374   2.481   -4.515  1.0 68.20 ? 34 GLN A O   1 P44220 UNP 34 Q 
+ATOM 265 C CG  . GLN A 1 34 ? 7.245   5.437   -6.069  1.0 68.20 ? 34 GLN A CG  1 P44220 UNP 34 Q 
+ATOM 266 C CD  . GLN A 1 34 ? 7.377   6.694   -6.923  1.0 68.20 ? 34 GLN A CD  1 P44220 UNP 34 Q 
+ATOM 267 N NE2 . GLN A 1 34 ? 6.857   7.812   -6.470  1.0 68.20 ? 34 GLN A NE2 1 P44220 UNP 34 Q 
+ATOM 268 O OE1 . GLN A 1 34 ? 7.967   6.708   -7.992  1.0 68.20 ? 34 GLN A OE1 1 P44220 UNP 34 Q 
+ATOM 269 N N   . LYS A 1 35 ? 7.373   1.498   -6.278  1.0 68.96 ? 35 LYS A N   1 P44220 UNP 35 K 
+ATOM 270 C CA  . LYS A 1 35 ? 6.350   0.452   -6.435  1.0 68.96 ? 35 LYS A CA  1 P44220 UNP 35 K 
+ATOM 271 C C   . LYS A 1 35 ? 6.220   -0.421  -5.193  1.0 68.96 ? 35 LYS A C   1 P44220 UNP 35 K 
+ATOM 272 C CB  . LYS A 1 35 ? 6.665   -0.430  -7.646  1.0 68.96 ? 35 LYS A CB  1 P44220 UNP 35 K 
+ATOM 273 O O   . LYS A 1 35 ? 5.106   -0.713  -4.772  1.0 68.96 ? 35 LYS A O   1 P44220 UNP 35 K 
+ATOM 274 C CG  . LYS A 1 35 ? 6.255   0.252   -8.953  1.0 68.96 ? 35 LYS A CG  1 P44220 UNP 35 K 
+ATOM 275 C CD  . LYS A 1 35 ? 6.513   -0.693  -10.128 1.0 68.96 ? 35 LYS A CD  1 P44220 UNP 35 K 
+ATOM 276 C CE  . LYS A 1 35 ? 6.036   -0.025  -11.417 1.0 68.96 ? 35 LYS A CE  1 P44220 UNP 35 K 
+ATOM 277 N NZ  . LYS A 1 35 ? 6.113   -0.960  -12.564 1.0 68.96 ? 35 LYS A NZ  1 P44220 UNP 35 K 
+ATOM 278 N N   . GLU A 1 36 ? 7.336   -0.822  -4.592  1.0 70.05 ? 36 GLU A N   1 P44220 UNP 36 E 
+ATOM 279 C CA  . GLU A 1 36 ? 7.311   -1.640  -3.379  1.0 70.05 ? 36 GLU A CA  1 P44220 UNP 36 E 
+ATOM 280 C C   . GLU A 1 36 ? 6.711   -0.860  -2.196  1.0 70.05 ? 36 GLU A C   1 P44220 UNP 36 E 
+ATOM 281 C CB  . GLU A 1 36 ? 8.733   -2.138  -3.096  1.0 70.05 ? 36 GLU A CB  1 P44220 UNP 36 E 
+ATOM 282 O O   . GLU A 1 36 ? 5.868   -1.380  -1.467  1.0 70.05 ? 36 GLU A O   1 P44220 UNP 36 E 
+ATOM 283 C CG  . GLU A 1 36 ? 8.736   -3.327  -2.130  1.0 70.05 ? 36 GLU A CG  1 P44220 UNP 36 E 
+ATOM 284 C CD  . GLU A 1 36 ? 10.146  -3.847  -1.818  1.0 70.05 ? 36 GLU A CD  1 P44220 UNP 36 E 
+ATOM 285 O OE1 . GLU A 1 36 ? 10.248  -4.656  -0.870  1.0 70.05 ? 36 GLU A OE1 1 P44220 UNP 36 E 
+ATOM 286 O OE2 . GLU A 1 36 ? 11.111  -3.401  -2.482  1.0 70.05 ? 36 GLU A OE2 1 P44220 UNP 36 E 
+ATOM 287 N N   . LYS A 1 37 ? 7.054   0.427   -2.042  1.0 71.38 ? 37 LYS A N   1 P44220 UNP 37 K 
+ATOM 288 C CA  . LYS A 1 37 ? 6.468   1.302   -1.013  1.0 71.38 ? 37 LYS A CA  1 P44220 UNP 37 K 
+ATOM 289 C C   . LYS A 1 37 ? 4.966   1.507   -1.209  1.0 71.38 ? 37 LYS A C   1 P44220 UNP 37 K 
+ATOM 290 C CB  . LYS A 1 37 ? 7.196   2.654   -0.983  1.0 71.38 ? 37 LYS A CB  1 P44220 UNP 37 K 
+ATOM 291 O O   . LYS A 1 37 ? 4.229   1.402   -0.231  1.0 71.38 ? 37 LYS A O   1 P44220 UNP 37 K 
+ATOM 292 C CG  . LYS A 1 37 ? 8.629   2.572   -0.436  1.0 71.38 ? 37 LYS A CG  1 P44220 UNP 37 K 
+ATOM 293 C CD  . LYS A 1 37 ? 8.696   2.354   1.078   1.0 71.38 ? 37 LYS A CD  1 P44220 UNP 37 K 
+ATOM 294 C CE  . LYS A 1 37 ? 10.174  2.330   1.476   1.0 71.38 ? 37 LYS A CE  1 P44220 UNP 37 K 
+ATOM 295 N NZ  . LYS A 1 37 ? 10.354  2.080   2.925   1.0 71.38 ? 37 LYS A NZ  1 P44220 UNP 37 K 
+ATOM 296 N N   . GLU A 1 38 ? 4.507   1.740   -2.436  1.0 71.84 ? 38 GLU A N   1 P44220 UNP 38 E 
+ATOM 297 C CA  . GLU A 1 38 ? 3.080   1.866   -2.762  1.0 71.84 ? 38 GLU A CA  1 P44220 UNP 38 E 
+ATOM 298 C C   . GLU A 1 38 ? 2.323   0.561   -2.489  1.0 71.84 ? 38 GLU A C   1 P44220 UNP 38 E 
+ATOM 299 C CB  . GLU A 1 38 ? 2.914   2.257   -4.238  1.0 71.84 ? 38 GLU A CB  1 P44220 UNP 38 E 
+ATOM 300 O O   . GLU A 1 38 ? 1.240   0.577   -1.898  1.0 71.84 ? 38 GLU A O   1 P44220 UNP 38 E 
+ATOM 301 C CG  . GLU A 1 38 ? 3.234   3.738   -4.486  1.0 71.84 ? 38 GLU A CG  1 P44220 UNP 38 E 
+ATOM 302 C CD  . GLU A 1 38 ? 3.202   4.124   -5.974  1.0 71.84 ? 38 GLU A CD  1 P44220 UNP 38 E 
+ATOM 303 O OE1 . GLU A 1 38 ? 3.465   5.316   -6.251  1.0 71.84 ? 38 GLU A OE1 1 P44220 UNP 38 E 
+ATOM 304 O OE2 . GLU A 1 38 ? 2.959   3.237   -6.828  1.0 71.84 ? 38 GLU A OE2 1 P44220 UNP 38 E 
+ATOM 305 N N   . GLN A 1 39 ? 2.910   -0.589  -2.835  1.0 75.30 ? 39 GLN A N   1 P44220 UNP 39 Q 
+ATOM 306 C CA  . GLN A 1 39 ? 2.337   -1.898  -2.523  1.0 75.30 ? 39 GLN A CA  1 P44220 UNP 39 Q 
+ATOM 307 C C   . GLN A 1 39 ? 2.264   -2.151  -1.014  1.0 75.30 ? 39 GLN A C   1 P44220 UNP 39 Q 
+ATOM 308 C CB  . GLN A 1 39 ? 3.151   -3.005  -3.202  1.0 75.30 ? 39 GLN A CB  1 P44220 UNP 39 Q 
+ATOM 309 O O   . GLN A 1 39 ? 1.236   -2.630  -0.530  1.0 75.30 ? 39 GLN A O   1 P44220 UNP 39 Q 
+ATOM 310 C CG  . GLN A 1 39 ? 2.866   -3.085  -4.707  1.0 75.30 ? 39 GLN A CG  1 P44220 UNP 39 Q 
+ATOM 311 C CD  . GLN A 1 39 ? 3.694   -4.161  -5.399  1.0 75.30 ? 39 GLN A CD  1 P44220 UNP 39 Q 
+ATOM 312 N NE2 . GLN A 1 39 ? 3.320   -4.563  -6.594  1.0 75.30 ? 39 GLN A NE2 1 P44220 UNP 39 Q 
+ATOM 313 O OE1 . GLN A 1 39 ? 4.671   -4.684  -4.894  1.0 75.30 ? 39 GLN A OE1 1 P44220 UNP 39 Q 
+ATOM 314 N N   . LEU A 1 40 ? 3.309   -1.824  -0.246  1.0 76.83 ? 40 LEU A N   1 P44220 UNP 40 L 
+ATOM 315 C CA  . LEU A 1 40 ? 3.273   -1.948  1.214   1.0 76.83 ? 40 LEU A CA  1 P44220 UNP 40 L 
+ATOM 316 C C   . LEU A 1 40 ? 2.265   -0.983  1.844   1.0 76.83 ? 40 LEU A C   1 P44220 UNP 40 L 
+ATOM 317 C CB  . LEU A 1 40 ? 4.665   -1.732  1.839   1.0 76.83 ? 40 LEU A CB  1 P44220 UNP 40 L 
+ATOM 318 O O   . LEU A 1 40 ? 1.572   -1.367  2.783   1.0 76.83 ? 40 LEU A O   1 P44220 UNP 40 L 
+ATOM 319 C CG  . LEU A 1 40 ? 5.458   -3.037  2.049   1.0 76.83 ? 40 LEU A CG  1 P44220 UNP 40 L 
+ATOM 320 C CD1 . LEU A 1 40 ? 6.331   -3.378  0.851   1.0 76.83 ? 40 LEU A CD1 1 P44220 UNP 40 L 
+ATOM 321 C CD2 . LEU A 1 40 ? 6.368   -2.902  3.272   1.0 76.83 ? 40 LEU A CD2 1 P44220 UNP 40 L 
+ATOM 322 N N   . GLN A 1 41 ? 2.157   0.249   1.345   1.0 76.99 ? 41 GLN A N   1 P44220 UNP 41 Q 
+ATOM 323 C CA  . GLN A 1 41 ? 1.199   1.229   1.854   1.0 76.99 ? 41 GLN A CA  1 P44220 UNP 41 Q 
+ATOM 324 C C   . GLN A 1 41 ? -0.238  0.777   1.582   1.0 76.99 ? 41 GLN A C   1 P44220 UNP 41 Q 
+ATOM 325 C CB  . GLN A 1 41 ? 1.518   2.602   1.252   1.0 76.99 ? 41 GLN A CB  1 P44220 UNP 41 Q 
+ATOM 326 O O   . GLN A 1 41 ? -1.059  0.786   2.494   1.0 76.99 ? 41 GLN A O   1 P44220 UNP 41 Q 
+ATOM 327 C CG  . GLN A 1 41 ? 0.712   3.728   1.916   1.0 76.99 ? 41 GLN A CG  1 P44220 UNP 41 Q 
+ATOM 328 C CD  . GLN A 1 41 ? 1.191   5.114   1.495   1.0 76.99 ? 41 GLN A CD  1 P44220 UNP 41 Q 
+ATOM 329 N NE2 . GLN A 1 41 ? 0.711   6.162   2.127   1.0 76.99 ? 41 GLN A NE2 1 P44220 UNP 41 Q 
+ATOM 330 O OE1 . GLN A 1 41 ? 2.017   5.291   0.618   1.0 76.99 ? 41 GLN A OE1 1 P44220 UNP 41 Q 
+ATOM 331 N N   . THR A 1 42 ? -0.509  0.262   0.381   1.0 78.98 ? 42 THR A N   1 P44220 UNP 42 T 
+ATOM 332 C CA  . THR A 1 42 ? -1.816  -0.307  0.022   1.0 78.98 ? 42 THR A CA  1 P44220 UNP 42 T 
+ATOM 333 C C   . THR A 1 42 ? -2.163  -1.491  0.925   1.0 78.98 ? 42 THR A C   1 P44220 UNP 42 T 
+ATOM 334 C CB  . THR A 1 42 ? -1.836  -0.747  -1.450  1.0 78.98 ? 42 THR A CB  1 P44220 UNP 42 T 
+ATOM 335 O O   . THR A 1 42 ? -3.260  -1.552  1.480   1.0 78.98 ? 42 THR A O   1 P44220 UNP 42 T 
+ATOM 336 C CG2 . THR A 1 42 ? -3.237  -1.147  -1.914  1.0 78.98 ? 42 THR A CG2 1 P44220 UNP 42 T 
+ATOM 337 O OG1 . THR A 1 42 ? -1.435  0.311   -2.287  1.0 78.98 ? 42 THR A OG1 1 P44220 UNP 42 T 
+ATOM 338 N N   . GLN A 1 43 ? -1.218  -2.411  1.144   1.0 76.08 ? 43 GLN A N   1 P44220 UNP 43 Q 
+ATOM 339 C CA  . GLN A 1 43 ? -1.425  -3.560  2.030   1.0 76.08 ? 43 GLN A CA  1 P44220 UNP 43 Q 
+ATOM 340 C C   . GLN A 1 43 ? -1.652  -3.141  3.486   1.0 76.08 ? 43 GLN A C   1 P44220 UNP 43 Q 
+ATOM 341 C CB  . GLN A 1 43 ? -0.234  -4.519  1.932   1.0 76.08 ? 43 GLN A CB  1 P44220 UNP 43 Q 
+ATOM 342 O O   . GLN A 1 43 ? -2.545  -3.688  4.134   1.0 76.08 ? 43 GLN A O   1 P44220 UNP 43 Q 
+ATOM 343 C CG  . GLN A 1 43 ? -0.256  -5.315  0.622   1.0 76.08 ? 43 GLN A CG  1 P44220 UNP 43 Q 
+ATOM 344 C CD  . GLN A 1 43 ? 0.957   -6.225  0.531   1.0 76.08 ? 43 GLN A CD  1 P44220 UNP 43 Q 
+ATOM 345 N NE2 . GLN A 1 43 ? 2.079   -5.727  0.059   1.0 76.08 ? 43 GLN A NE2 1 P44220 UNP 43 Q 
+ATOM 346 O OE1 . GLN A 1 43 ? 0.915   -7.380  0.913   1.0 76.08 ? 43 GLN A OE1 1 P44220 UNP 43 Q 
+ATOM 347 N N   . LYS A 1 44 ? -0.904  -2.151  3.993   1.0 79.31 ? 44 LYS A N   1 P44220 UNP 44 K 
+ATOM 348 C CA  . LYS A 1 44 ? -1.101  -1.606  5.343   1.0 79.31 ? 44 LYS A CA  1 P44220 UNP 44 K 
+ATOM 349 C C   . LYS A 1 44 ? -2.473  -0.968  5.497   1.0 79.31 ? 44 LYS A C   1 P44220 UNP 44 K 
+ATOM 350 C CB  . LYS A 1 44 ? -0.008  -0.592  5.701   1.0 79.31 ? 44 LYS A CB  1 P44220 UNP 44 K 
+ATOM 351 O O   . LYS A 1 44 ? -3.188  -1.329  6.423   1.0 79.31 ? 44 LYS A O   1 P44220 UNP 44 K 
+ATOM 352 C CG  . LYS A 1 44 ? 1.294   -1.282  6.121   1.0 79.31 ? 44 LYS A CG  1 P44220 UNP 44 K 
+ATOM 353 C CD  . LYS A 1 44 ? 2.285   -0.231  6.627   1.0 79.31 ? 44 LYS A CD  1 P44220 UNP 44 K 
+ATOM 354 C CE  . LYS A 1 44 ? 3.566   -0.909  7.116   1.0 79.31 ? 44 LYS A CE  1 P44220 UNP 44 K 
+ATOM 355 N NZ  . LYS A 1 44 ? 4.409   0.046   7.876   1.0 79.31 ? 44 LYS A NZ  1 P44220 UNP 44 K 
+ATOM 356 N N   . THR A 1 45 ? -2.885  -0.110  4.566   1.0 81.89 ? 45 THR A N   1 P44220 UNP 45 T 
+ATOM 357 C CA  . THR A 1 45 ? -4.206  0.530   4.617   1.0 81.89 ? 45 THR A CA  1 P44220 UNP 45 T 
+ATOM 358 C C   . THR A 1 45 ? -5.333  -0.502  4.557   1.0 81.89 ? 45 THR A C   1 P44220 UNP 45 T 
+ATOM 359 C CB  . THR A 1 45 ? -4.349  1.548   3.479   1.0 81.89 ? 45 THR A CB  1 P44220 UNP 45 T 
+ATOM 360 O O   . THR A 1 45 ? -6.308  -0.393  5.301   1.0 81.89 ? 45 THR A O   1 P44220 UNP 45 T 
+ATOM 361 C CG2 . THR A 1 45 ? -5.670  2.314   3.531   1.0 81.89 ? 45 THR A CG2 1 P44220 UNP 45 T 
+ATOM 362 O OG1 . THR A 1 45 ? -3.325  2.509   3.575   1.0 81.89 ? 45 THR A OG1 1 P44220 UNP 45 T 
+ATOM 363 N N   . VAL A 1 46 ? -5.200  -1.550  3.735   1.0 83.44 ? 46 VAL A N   1 P44220 UNP 46 V 
+ATOM 364 C CA  . VAL A 1 46 ? -6.175  -2.652  3.688   1.0 83.44 ? 46 VAL A CA  1 P44220 UNP 46 V 
+ATOM 365 C C   . VAL A 1 46 ? -6.192  -3.436  5.003   1.0 83.44 ? 46 VAL A C   1 P44220 UNP 46 V 
+ATOM 366 C CB  . VAL A 1 46 ? -5.904  -3.577  2.484   1.0 83.44 ? 46 VAL A CB  1 P44220 UNP 46 V 
+ATOM 367 O O   . VAL A 1 46 ? -7.273  -3.753  5.498   1.0 83.44 ? 46 VAL A O   1 P44220 UNP 46 V 
+ATOM 368 C CG1 . VAL A 1 46 ? -6.761  -4.853  2.514   1.0 83.44 ? 46 VAL A CG1 1 P44220 UNP 46 V 
+ATOM 369 C CG2 . VAL A 1 46 ? -6.229  -2.858  1.169   1.0 83.44 ? 46 VAL A CG2 1 P44220 UNP 46 V 
+ATOM 370 N N   . ALA A 1 47 ? -5.032  -3.739  5.589   1.0 82.74 ? 47 ALA A N   1 P44220 UNP 47 A 
+ATOM 371 C CA  . ALA A 1 47 ? -4.939  -4.447  6.864   1.0 82.74 ? 47 ALA A CA  1 P44220 UNP 47 A 
+ATOM 372 C C   . ALA A 1 47 ? -5.542  -3.631  8.019   1.0 82.74 ? 47 ALA A C   1 P44220 UNP 47 A 
+ATOM 373 C CB  . ALA A 1 47 ? -3.474  -4.812  7.126   1.0 82.74 ? 47 ALA A CB  1 P44220 UNP 47 A 
+ATOM 374 O O   . ALA A 1 47 ? -6.380  -4.146  8.757   1.0 82.74 ? 47 ALA A O   1 P44220 UNP 47 A 
+ATOM 375 N N   . GLU A 1 48 ? -5.196  -2.349  8.129   1.0 83.43 ? 48 GLU A N   1 P44220 UNP 48 E 
+ATOM 376 C CA  . GLU A 1 48 ? -5.751  -1.426  9.126   1.0 83.43 ? 48 GLU A CA  1 P44220 UNP 48 E 
+ATOM 377 C C   . GLU A 1 48 ? -7.266  -1.276  8.966   1.0 83.43 ? 48 GLU A C   1 P44220 UNP 48 E 
+ATOM 378 C CB  . GLU A 1 48 ? -5.076  -0.055  8.985   1.0 83.43 ? 48 GLU A CB  1 P44220 UNP 48 E 
+ATOM 379 O O   . GLU A 1 48 ? -8.006  -1.335  9.949   1.0 83.43 ? 48 GLU A O   1 P44220 UNP 48 E 
+ATOM 380 C CG  . GLU A 1 48 ? -3.626  -0.069  9.495   1.0 83.43 ? 48 GLU A CG  1 P44220 UNP 48 E 
+ATOM 381 C CD  . GLU A 1 48 ? -2.887  1.257   9.253   1.0 83.43 ? 48 GLU A CD  1 P44220 UNP 48 E 
+ATOM 382 O OE1 . GLU A 1 48 ? -1.809  1.422   9.867   1.0 83.43 ? 48 GLU A OE1 1 P44220 UNP 48 E 
+ATOM 383 O OE2 . GLU A 1 48 ? -3.366  2.071   8.430   1.0 83.43 ? 48 GLU A OE2 1 P44220 UNP 48 E 
+ATOM 384 N N   . THR A 1 49 ? -7.754  -1.172  7.726   1.0 87.18 ? 49 THR A N   1 P44220 UNP 49 T 
+ATOM 385 C CA  . THR A 1 49 ? -9.193  -1.109  7.437   1.0 87.18 ? 49 THR A CA  1 P44220 UNP 49 T 
+ATOM 386 C C   . THR A 1 49 ? -9.898  -2.407  7.827   1.0 87.18 ? 49 THR A C   1 P44220 UNP 49 T 
+ATOM 387 C CB  . THR A 1 49 ? -9.450  -0.790  5.958   1.0 87.18 ? 49 THR A CB  1 P44220 UNP 49 T 
+ATOM 388 O O   . THR A 1 49 ? -10.961 -2.361  8.442   1.0 87.18 ? 49 THR A O   1 P44220 UNP 49 T 
+ATOM 389 C CG2 . THR A 1 49 ? -10.938 -0.650  5.634   1.0 87.18 ? 49 THR A CG2 1 P44220 UNP 49 T 
+ATOM 390 O OG1 . THR A 1 49 ? -8.856  0.440   5.629   1.0 87.18 ? 49 THR A OG1 1 P44220 UNP 49 T 
+ATOM 391 N N   . LYS A 1 50 ? -9.311  -3.576  7.534   1.0 85.68 ? 50 LYS A N   1 P44220 UNP 50 K 
+ATOM 392 C CA  . LYS A 1 50 ? -9.864  -4.879  7.943   1.0 85.68 ? 50 LYS A CA  1 P44220 UNP 50 K 
+ATOM 393 C C   . LYS A 1 50 ? -9.928  -5.013  9.462   1.0 85.68 ? 50 LYS A C   1 P44220 UNP 50 K 
+ATOM 394 C CB  . LYS A 1 50 ? -9.038  -6.028  7.348   1.0 85.68 ? 50 LYS A CB  1 P44220 UNP 50 K 
+ATOM 395 O O   . LYS A 1 50 ? -10.959 -5.429  9.982   1.0 85.68 ? 50 LYS A O   1 P44220 UNP 50 K 
+ATOM 396 C CG  . LYS A 1 50 ? -9.359  -6.277  5.869   1.0 85.68 ? 50 LYS A CG  1 P44220 UNP 50 K 
+ATOM 397 C CD  . LYS A 1 50 ? -8.485  -7.414  5.327   1.0 85.68 ? 50 LYS A CD  1 P44220 UNP 50 K 
+ATOM 398 C CE  . LYS A 1 50 ? -8.806  -7.676  3.852   1.0 85.68 ? 50 LYS A CE  1 P44220 UNP 50 K 
+ATOM 399 N NZ  . LYS A 1 50 ? -8.055  -8.845  3.328   1.0 85.68 ? 50 LYS A NZ  1 P44220 UNP 50 K 
+ATOM 400 N N   . VAL A 1 51 ? -8.867  -4.621  10.164  1.0 88.42 ? 51 VAL A N   1 P44220 UNP 51 V 
+ATOM 401 C CA  . VAL A 1 51 ? -8.807  -4.647  11.632  1.0 88.42 ? 51 VAL A CA  1 P44220 UNP 51 V 
+ATOM 402 C C   . VAL A 1 51 ? -9.845  -3.698  12.232  1.0 88.42 ? 51 VAL A C   1 P44220 UNP 51 V 
+ATOM 403 C CB  . VAL A 1 51 ? -7.377  -4.320  12.106  1.0 88.42 ? 51 VAL A CB  1 P44220 UNP 51 V 
+ATOM 404 O O   . VAL A 1 51 ? -10.587 -4.096  13.129  1.0 88.42 ? 51 VAL A O   1 P44220 UNP 51 V 
+ATOM 405 C CG1 . VAL A 1 51 ? -7.305  -4.039  13.608  1.0 88.42 ? 51 VAL A CG1 1 P44220 UNP 51 V 
+ATOM 406 C CG2 . VAL A 1 51 ? -6.436  -5.491  11.807  1.0 88.42 ? 51 VAL A CG2 1 P44220 UNP 51 V 
+ATOM 407 N N   . LYS A 1 52 ? -9.963  -2.475  11.705  1.0 90.17 ? 52 LYS A N   1 P44220 UNP 52 K 
+ATOM 408 C CA  . LYS A 1 52 ? -10.970 -1.505  12.151  1.0 90.17 ? 52 LYS A CA  1 P44220 UNP 52 K 
+ATOM 409 C C   . LYS A 1 52 ? -12.392 -2.012  11.907  1.0 90.17 ? 52 LYS A C   1 P44220 UNP 52 K 
+ATOM 410 C CB  . LYS A 1 52 ? -10.706 -0.161  11.457  1.0 90.17 ? 52 LYS A CB  1 P44220 UNP 52 K 
+ATOM 411 O O   . LYS A 1 52 ? -13.221 -1.951  12.810  1.0 90.17 ? 52 LYS A O   1 P44220 UNP 52 K 
+ATOM 412 C CG  . LYS A 1 52 ? -11.606 0.953   12.009  1.0 90.17 ? 52 LYS A CG  1 P44220 UNP 52 K 
+ATOM 413 C CD  . LYS A 1 52 ? -11.252 2.296   11.361  1.0 90.17 ? 52 LYS A CD  1 P44220 UNP 52 K 
+ATOM 414 C CE  . LYS A 1 52 ? -12.119 3.411   11.954  1.0 90.17 ? 52 LYS A CE  1 P44220 UNP 52 K 
+ATOM 415 N NZ  . LYS A 1 52 ? -11.795 4.728   11.350  1.0 90.17 ? 52 LYS A NZ  1 P44220 UNP 52 K 
+ATOM 416 N N   . ASN A 1 53 ? -12.666 -2.563  10.726  1.0 91.72 ? 53 ASN A N   1 P44220 UNP 53 N 
+ATOM 417 C CA  . ASN A 1 53 ? -13.973 -3.131  10.394  1.0 91.72 ? 53 ASN A CA  1 P44220 UNP 53 N 
+ATOM 418 C C   . ASN A 1 53 ? -14.319 -4.324  11.291  1.0 91.72 ? 53 ASN A C   1 P44220 UNP 53 N 
+ATOM 419 C CB  . ASN A 1 53 ? -13.994 -3.537  8.911   1.0 91.72 ? 53 ASN A CB  1 P44220 UNP 53 N 
+ATOM 420 O O   . ASN A 1 53 ? -15.457 -4.437  11.739  1.0 91.72 ? 53 ASN A O   1 P44220 UNP 53 N 
+ATOM 421 C CG  . ASN A 1 53 ? -14.097 -2.350  7.971   1.0 91.72 ? 53 ASN A CG  1 P44220 UNP 53 N 
+ATOM 422 N ND2 . ASN A 1 53 ? -13.863 -2.557  6.696   1.0 91.72 ? 53 ASN A ND2 1 P44220 UNP 53 N 
+ATOM 423 O OD1 . ASN A 1 53 ? -14.421 -1.237  8.346   1.0 91.72 ? 53 ASN A OD1 1 P44220 UNP 53 N 
+ATOM 424 N N   . TYR A 1 54 ? -13.343 -5.184  11.590  1.0 90.25 ? 54 TYR A N   1 P44220 UNP 54 Y 
+ATOM 425 C CA  . TYR A 1 54 ? -13.534 -6.308  12.501  1.0 90.25 ? 54 TYR A CA  1 P44220 UNP 54 Y 
+ATOM 426 C C   . TYR A 1 54 ? -13.853 -5.840  13.926  1.0 90.25 ? 54 TYR A C   1 P44220 UNP 54 Y 
+ATOM 427 C CB  . TYR A 1 54 ? -12.296 -7.208  12.470  1.0 90.25 ? 54 TYR A CB  1 P44220 UNP 54 Y 
+ATOM 428 O O   . TYR A 1 54 ? -14.819 -6.317  14.513  1.0 90.25 ? 54 TYR A O   1 P44220 UNP 54 Y 
+ATOM 429 C CG  . TYR A 1 54 ? -12.461 -8.444  13.327  1.0 90.25 ? 54 TYR A CG  1 P44220 UNP 54 Y 
+ATOM 430 C CD1 . TYR A 1 54 ? -11.964 -8.462  14.645  1.0 90.25 ? 54 TYR A CD1 1 P44220 UNP 54 Y 
+ATOM 431 C CD2 . TYR A 1 54 ? -13.161 -9.556  12.820  1.0 90.25 ? 54 TYR A CD2 1 P44220 UNP 54 Y 
+ATOM 432 C CE1 . TYR A 1 54 ? -12.160 -9.596  15.456  1.0 90.25 ? 54 TYR A CE1 1 P44220 UNP 54 Y 
+ATOM 433 C CE2 . TYR A 1 54 ? -13.354 -10.692 13.628  1.0 90.25 ? 54 TYR A CE2 1 P44220 UNP 54 Y 
+ATOM 434 O OH  . TYR A 1 54 ? -13.038 -11.817 15.713  1.0 90.25 ? 54 TYR A OH  1 P44220 UNP 54 Y 
+ATOM 435 C CZ  . TYR A 1 54 ? -12.853 -10.714 14.945  1.0 90.25 ? 54 TYR A CZ  1 P44220 UNP 54 Y 
+ATOM 436 N N   . GLN A 1 55 ? -13.116 -4.858  14.455  1.0 90.63 ? 55 GLN A N   1 P44220 UNP 55 Q 
+ATOM 437 C CA  . GLN A 1 55 ? -13.389 -4.284  15.779  1.0 90.63 ? 55 GLN A CA  1 P44220 UNP 55 Q 
+ATOM 438 C C   . GLN A 1 55 ? -14.779 -3.640  15.858  1.0 90.63 ? 55 GLN A C   1 P44220 UNP 55 Q 
+ATOM 439 C CB  . GLN A 1 55 ? -12.325 -3.235  16.123  1.0 90.63 ? 55 GLN A CB  1 P44220 UNP 55 Q 
+ATOM 440 O O   . GLN A 1 55 ? -15.502 -3.843  16.830  1.0 90.63 ? 55 GLN A O   1 P44220 UNP 55 Q 
+ATOM 441 C CG  . GLN A 1 55 ? -10.972 -3.855  16.488  1.0 90.63 ? 55 GLN A CG  1 P44220 UNP 55 Q 
+ATOM 442 C CD  . GLN A 1 55 ? -9.952  -2.768  16.802  1.0 90.63 ? 55 GLN A CD  1 P44220 UNP 55 Q 
+ATOM 443 N NE2 . GLN A 1 55 ? -8.827  -2.731  16.130  1.0 90.63 ? 55 GLN A NE2 1 P44220 UNP 55 Q 
+ATOM 444 O OE1 . GLN A 1 55 ? -10.149 -1.906  17.638  1.0 90.63 ? 55 GLN A OE1 1 P44220 UNP 55 Q 
+ATOM 445 N N   . VAL A 1 56 ? -15.187 -2.895  14.825  1.0 91.03 ? 56 VAL A N   1 P44220 UNP 56 V 
+ATOM 446 C CA  . VAL A 1 56 ? -16.530 -2.296  14.764  1.0 91.03 ? 56 VAL A CA  1 P44220 UNP 56 V 
+ATOM 447 C C   . VAL A 1 56 ? -17.607 -3.377  14.710  1.0 91.03 ? 56 VAL A C   1 P44220 UNP 56 V 
+ATOM 448 C CB  . VAL A 1 56 ? -16.653 -1.329  13.572  1.0 91.03 ? 56 VAL A CB  1 P44220 UNP 56 V 
+ATOM 449 O O   . VAL A 1 56 ? -18.603 -3.272  15.421  1.0 91.03 ? 56 VAL A O   1 P44220 UNP 56 V 
+ATOM 450 C CG1 . VAL A 1 56 ? -18.092 -0.844  13.348  1.0 91.03 ? 56 VAL A CG1 1 P44220 UNP 56 V 
+ATOM 451 C CG2 . VAL A 1 56 ? -15.789 -0.082  13.801  1.0 91.03 ? 56 VAL A CG2 1 P44220 UNP 56 V 
+ATOM 452 N N   . LYS A 1 57 ? -17.407 -4.432  13.912  1.0 91.11 ? 57 LYS A N   1 P44220 UNP 57 K 
+ATOM 453 C CA  . LYS A 1 57 ? -18.339 -5.561  13.838  1.0 91.11 ? 57 LYS A CA  1 P44220 UNP 57 K 
+ATOM 454 C C   . LYS A 1 57 ? -18.459 -6.270  15.186  1.0 91.11 ? 57 LYS A C   1 P44220 UNP 57 K 
+ATOM 455 C CB  . LYS A 1 57 ? -17.917 -6.510  12.708  1.0 91.11 ? 57 LYS A CB  1 P44220 UNP 57 K 
+ATOM 456 O O   . LYS A 1 57 ? -19.577 -6.461  15.646  1.0 91.11 ? 57 LYS A O   1 P44220 UNP 57 K 
+ATOM 457 C CG  . LYS A 1 57 ? -18.910 -7.670  12.573  1.0 91.11 ? 57 LYS A CG  1 P44220 UNP 57 K 
+ATOM 458 C CD  . LYS A 1 57 ? -18.593 -8.571  11.375  1.0 91.11 ? 57 LYS A CD  1 P44220 UNP 57 K 
+ATOM 459 C CE  . LYS A 1 57 ? -19.502 -9.790  11.516  1.0 91.11 ? 57 LYS A CE  1 P44220 UNP 57 K 
+ATOM 460 N NZ  . LYS A 1 57 ? -19.346 -10.800 10.451  1.0 91.11 ? 57 LYS A NZ  1 P44220 UNP 57 K 
+ATOM 461 N N   . GLN A 1 58 ? -17.340 -6.568  15.842  1.0 90.87 ? 58 GLN A N   1 P44220 UNP 58 Q 
+ATOM 462 C CA  . GLN A 1 58 ? -17.328 -7.208  17.157  1.0 90.87 ? 58 GLN A CA  1 P44220 UNP 58 Q 
+ATOM 463 C C   . GLN A 1 58 ? -18.055 -6.353  18.202  1.0 90.87 ? 58 GLN A C   1 P44220 UNP 58 Q 
+ATOM 464 C CB  . GLN A 1 58 ? -15.872 -7.474  17.563  1.0 90.87 ? 58 GLN A CB  1 P44220 UNP 58 Q 
+ATOM 465 O O   . GLN A 1 58 ? -18.916 -6.861  18.912  1.0 90.87 ? 58 GLN A O   1 P44220 UNP 58 Q 
+ATOM 466 C CG  . GLN A 1 58 ? -15.783 -8.280  18.864  1.0 90.87 ? 58 GLN A CG  1 P44220 UNP 58 Q 
+ATOM 467 C CD  . GLN A 1 58 ? -14.336 -8.456  19.297  1.0 90.87 ? 58 GLN A CD  1 P44220 UNP 58 Q 
+ATOM 468 N NE2 . GLN A 1 58 ? -13.759 -9.628  19.145  1.0 90.87 ? 58 GLN A NE2 1 P44220 UNP 58 Q 
+ATOM 469 O OE1 . GLN A 1 58 ? -13.677 -7.537  19.747  1.0 90.87 ? 58 GLN A OE1 1 P44220 UNP 58 Q 
+ATOM 470 N N   . LYS A 1 59 ? -17.789 -5.041  18.240  1.0 89.35 ? 59 LYS A N   1 P44220 UNP 59 K 
+ATOM 471 C CA  . LYS A 1 59 ? -18.485 -4.115  19.143  1.0 89.35 ? 59 LYS A CA  1 P44220 UNP 59 K 
+ATOM 472 C C   . LYS A 1 59 ? -19.985 -4.034  18.846  1.0 89.35 ? 59 LYS A C   1 P44220 UNP 59 K 
+ATOM 473 C CB  . LYS A 1 59 ? -17.813 -2.739  19.051  1.0 89.35 ? 59 LYS A CB  1 P44220 UNP 59 K 
+ATOM 474 O O   . LYS A 1 59 ? -20.797 -3.963  19.764  1.0 89.35 ? 59 LYS A O   1 P44220 UNP 59 K 
+ATOM 475 C CG  . LYS A 1 59 ? -18.387 -1.773  20.096  1.0 89.35 ? 59 LYS A CG  1 P44220 UNP 59 K 
+ATOM 476 C CD  . LYS A 1 59 ? -17.671 -0.422  20.056  1.0 89.35 ? 59 LYS A CD  1 P44220 UNP 59 K 
+ATOM 477 C CE  . LYS A 1 59 ? -18.248 0.461   21.165  1.0 89.35 ? 59 LYS A CE  1 P44220 UNP 59 K 
+ATOM 478 N NZ  . LYS A 1 59 ? -17.575 1.780   21.227  1.0 89.35 ? 59 LYS A NZ  1 P44220 UNP 59 K 
+ATOM 479 N N   . ASN A 1 60 ? -20.368 -4.031  17.571  1.0 88.42 ? 60 ASN A N   1 P44220 UNP 60 N 
+ATOM 480 C CA  . ASN A 1 60 ? -21.774 -4.016  17.175  1.0 88.42 ? 60 ASN A CA  1 P44220 UNP 60 N 
+ATOM 481 C C   . ASN A 1 60 ? -22.481 -5.322  17.556  1.0 88.42 ? 60 ASN A C   1 P44220 UNP 60 N 
+ATOM 482 C CB  . ASN A 1 60 ? -21.889 -3.730  15.671  1.0 88.42 ? 60 ASN A CB  1 P44220 UNP 60 N 
+ATOM 483 O O   . ASN A 1 60 ? -23.601 -5.264  18.051  1.0 88.42 ? 60 ASN A O   1 P44220 UNP 60 N 
+ATOM 484 C CG  . ASN A 1 60 ? -21.606 -2.284  15.305  1.0 88.42 ? 60 ASN A CG  1 P44220 UNP 60 N 
+ATOM 485 N ND2 . ASN A 1 60 ? -21.438 -2.008  14.033  1.0 88.42 ? 60 ASN A ND2 1 P44220 UNP 60 N 
+ATOM 486 O OD1 . ASN A 1 60 ? -21.575 -1.378  16.123  1.0 88.42 ? 60 ASN A OD1 1 P44220 UNP 60 N 
+ATOM 487 N N   . GLU A 1 61 ? -21.834 -6.474  17.368  1.0 86.57 ? 61 GLU A N   1 P44220 UNP 61 E 
+ATOM 488 C CA  . GLU A 1 61 ? -22.351 -7.784  17.778  1.0 86.57 ? 61 GLU A CA  1 P44220 UNP 61 E 
+ATOM 489 C C   . GLU A 1 61 ? -22.481 -7.882  19.301  1.0 86.57 ? 61 GLU A C   1 P44220 UNP 61 E 
+ATOM 490 C CB  . GLU A 1 61 ? -21.443 -8.902  17.237  1.0 86.57 ? 61 GLU A CB  1 P44220 UNP 61 E 
+ATOM 491 O O   . GLU A 1 61 ? -23.533 -8.284  19.792  1.0 86.57 ? 61 GLU A O   1 P44220 UNP 61 E 
+ATOM 492 C CG  . GLU A 1 61 ? -21.640 -9.107  15.726  1.0 86.57 ? 61 GLU A CG  1 P44220 UNP 61 E 
+ATOM 493 C CD  . GLU A 1 61 ? -20.683 -10.134 15.097  1.0 86.57 ? 61 GLU A CD  1 P44220 UNP 61 E 
+ATOM 494 O OE1 . GLU A 1 61 ? -20.861 -10.403 13.883  1.0 86.57 ? 61 GLU A OE1 1 P44220 UNP 61 E 
+ATOM 495 O OE2 . GLU A 1 61 ? -19.743 -10.609 15.769  1.0 86.57 ? 61 GLU A OE2 1 P44220 UNP 61 E 
+ATOM 496 N N   . GLU A 1 62 ? -21.475 -7.438  20.055  1.0 85.40 ? 62 GLU A N   1 P44220 UNP 62 E 
+ATOM 497 C CA  . GLU A 1 62 ? -21.519 -7.386  21.519  1.0 85.40 ? 62 GLU A CA  1 P44220 UNP 62 E 
+ATOM 498 C C   . GLU A 1 62 ? -22.658 -6.488  22.017  1.0 85.40 ? 62 GLU A C   1 P44220 UNP 62 E 
+ATOM 499 C CB  . GLU A 1 62 ? -20.162 -6.902  22.045  1.0 85.40 ? 62 GLU A CB  1 P44220 UNP 62 E 
+ATOM 500 O O   . GLU A 1 62 ? -23.436 -6.897  22.878  1.0 85.40 ? 62 GLU A O   1 P44220 UNP 62 E 
+ATOM 501 C CG  . GLU A 1 62 ? -20.085 -6.964  23.577  1.0 85.40 ? 62 GLU A CG  1 P44220 UNP 62 E 
+ATOM 502 C CD  . GLU A 1 62 ? -18.742 -6.472  24.135  1.0 85.40 ? 62 GLU A CD  1 P44220 UNP 62 E 
+ATOM 503 O OE1 . GLU A 1 62 ? -18.593 -6.541  25.374  1.0 85.40 ? 62 GLU A OE1 1 P44220 UNP 62 E 
+ATOM 504 O OE2 . GLU A 1 62 ? -17.889 -6.015  23.338  1.0 85.40 ? 62 GLU A OE2 1 P44220 UNP 62 E 
+ATOM 505 N N   . ASN A 1 63 ? -22.826 -5.300  21.428  1.0 85.94 ? 63 ASN A N   1 P44220 UNP 63 N 
+ATOM 506 C CA  . ASN A 1 63 ? -23.934 -4.402  21.752  1.0 85.94 ? 63 ASN A CA  1 P44220 UNP 63 N 
+ATOM 507 C C   . ASN A 1 63 ? -25.298 -5.021  21.422  1.0 85.94 ? 63 ASN A C   1 P44220 UNP 63 N 
+ATOM 508 C CB  . ASN A 1 63 ? -23.762 -3.083  20.984  1.0 85.94 ? 63 ASN A CB  1 P44220 UNP 63 N 
+ATOM 509 O O   . ASN A 1 63 ? -26.245 -4.857  22.192  1.0 85.94 ? 63 ASN A O   1 P44220 UNP 63 N 
+ATOM 510 C CG  . ASN A 1 63 ? -22.731 -2.153  21.589  1.0 85.94 ? 63 ASN A CG  1 P44220 UNP 63 N 
+ATOM 511 N ND2 . ASN A 1 63 ? -22.258 -1.197  20.827  1.0 85.94 ? 63 ASN A ND2 1 P44220 UNP 63 N 
+ATOM 512 O OD1 . ASN A 1 63 ? -22.385 -2.197  22.754  1.0 85.94 ? 63 ASN A OD1 1 P44220 UNP 63 N 
+ATOM 513 N N   . LEU A 1 64 ? -25.419 -5.728  20.293  1.0 81.68 ? 64 LEU A N   1 P44220 UNP 64 L 
+ATOM 514 C CA  . LEU A 1 64 ? -26.665 -6.383  19.897  1.0 81.68 ? 64 LEU A CA  1 P44220 UNP 64 L 
+ATOM 515 C C   . LEU A 1 64 ? -27.013 -7.527  20.854  1.0 81.68 ? 64 LEU A C   1 P44220 UNP 64 L 
+ATOM 516 C CB  . LEU A 1 64 ? -26.562 -6.897  18.446  1.0 81.68 ? 64 LEU A CB  1 P44220 UNP 64 L 
+ATOM 517 O O   . LEU A 1 64 ? -28.155 -7.631  21.297  1.0 81.68 ? 64 LEU A O   1 P44220 UNP 64 L 
+ATOM 518 C CG  . LEU A 1 64 ? -27.860 -6.681  17.654  1.0 81.68 ? 64 LEU A CG  1 P44220 UNP 64 L 
+ATOM 519 C CD1 . LEU A 1 64 ? -27.960 -5.229  17.172  1.0 81.68 ? 64 LEU A CD1 1 P44220 UNP 64 L 
+ATOM 520 C CD2 . LEU A 1 64 ? -27.895 -7.593  16.429  1.0 81.68 ? 64 LEU A CD2 1 P44220 UNP 64 L 
+ATOM 521 N N   . ILE A 1 65 ? -26.022 -8.349  21.209  1.0 82.80 ? 65 ILE A N   1 P44220 UNP 65 I 
+ATOM 522 C CA  . ILE A 1 65 ? -26.168 -9.450  22.166  1.0 82.80 ? 65 ILE A CA  1 P44220 UNP 65 I 
+ATOM 523 C C   . ILE A 1 65 ? -26.512 -8.899  23.550  1.0 82.80 ? 65 ILE A C   1 P44220 UNP 65 I 
+ATOM 524 C CB  . ILE A 1 65 ? -24.887 -10.315 22.194  1.0 82.80 ? 65 ILE A CB  1 P44220 UNP 65 I 
+ATOM 525 O O   . ILE A 1 65 ? -27.449 -9.387  24.174  1.0 82.80 ? 65 ILE A O   1 P44220 UNP 65 I 
+ATOM 526 C CG1 . ILE A 1 65 ? -24.713 -11.069 20.854  1.0 82.80 ? 65 ILE A CG1 1 P44220 UNP 65 I 
+ATOM 527 C CG2 . ILE A 1 65 ? -24.929 -11.332 23.354  1.0 82.80 ? 65 ILE A CG2 1 P44220 UNP 65 I 
+ATOM 528 C CD1 . ILE A 1 65 ? -23.302 -11.639 20.653  1.0 82.80 ? 65 ILE A CD1 1 P44220 UNP 65 I 
+ATOM 529 N N   . SER A 1 66 ? -25.802 -7.870  24.018  1.0 82.97 ? 66 SER A N   1 P44220 UNP 66 S 
+ATOM 530 C CA  . SER A 1 66 ? -26.051 -7.223  25.309  1.0 82.97 ? 66 SER A CA  1 P44220 UNP 66 S 
+ATOM 531 C C   . SER A 1 66 ? -27.466 -6.648  25.371  1.0 82.97 ? 66 SER A C   1 P44220 UNP 66 S 
+ATOM 532 C CB  . SER A 1 66 ? -24.998 -6.140  25.553  1.0 82.97 ? 66 SER A CB  1 P44220 UNP 66 S 
+ATOM 533 O O   . SER A 1 66 ? -28.233 -6.996  26.265  1.0 82.97 ? 66 SER A O   1 P44220 UNP 66 S 
+ATOM 534 O OG  . SER A 1 66 ? -25.204 -5.558  26.820  1.0 82.97 ? 66 SER A OG  1 P44220 UNP 66 S 
+ATOM 535 N N   . ARG A 1 67 ? -27.882 -5.887  24.350  1.0 79.43 ? 67 ARG A N   1 P44220 UNP 67 R 
+ATOM 536 C CA  . ARG A 1 67 ? -29.240 -5.334  24.263  1.0 79.43 ? 67 ARG A CA  1 P44220 UNP 67 R 
+ATOM 537 C C   . ARG A 1 67 ? -30.308 -6.423  24.190  1.0 79.43 ? 67 ARG A C   1 P44220 UNP 67 R 
+ATOM 538 C CB  . ARG A 1 67 ? -29.317 -4.395  23.054  1.0 79.43 ? 67 ARG A CB  1 P44220 UNP 67 R 
+ATOM 539 O O   . ARG A 1 67 ? -31.345 -6.300  24.837  1.0 79.43 ? 67 ARG A O   1 P44220 UNP 67 R 
+ATOM 540 C CG  . ARG A 1 67 ? -30.617 -3.583  23.051  1.0 79.43 ? 67 ARG A CG  1 P44220 UNP 67 R 
+ATOM 541 C CD  . ARG A 1 67 ? -30.639 -2.643  21.845  1.0 79.43 ? 67 ARG A CD  1 P44220 UNP 67 R 
+ATOM 542 N NE  . ARG A 1 67 ? -31.765 -1.697  21.934  1.0 79.43 ? 67 ARG A NE  1 P44220 UNP 67 R 
+ATOM 543 N NH1 . ARG A 1 67 ? -31.506 -0.725  19.872  1.0 79.43 ? 67 ARG A NH1 1 P44220 UNP 67 R 
+ATOM 544 N NH2 . ARG A 1 67 ? -33.104 0.010   21.252  1.0 79.43 ? 67 ARG A NH2 1 P44220 UNP 67 R 
+ATOM 545 C CZ  . ARG A 1 67 ? -32.119 -0.811  21.022  1.0 79.43 ? 67 ARG A CZ  1 P44220 UNP 67 R 
+ATOM 546 N N   . SER A 1 68 ? -30.061 -7.487  23.425  1.0 82.27 ? 68 SER A N   1 P44220 UNP 68 S 
+ATOM 547 C CA  . SER A 1 68 ? -30.961 -8.638  23.363  1.0 82.27 ? 68 SER A CA  1 P44220 UNP 68 S 
+ATOM 548 C C   . SER A 1 68 ? -31.071 -9.318  24.724  1.0 82.27 ? 68 SER A C   1 P44220 UNP 68 S 
+ATOM 549 C CB  . SER A 1 68 ? -30.484 -9.649  22.319  1.0 82.27 ? 68 SER A CB  1 P44220 UNP 68 S 
+ATOM 550 O O   . SER A 1 68 ? -32.175 -9.655  25.129  1.0 82.27 ? 68 SER A O   1 P44220 UNP 68 S 
+ATOM 551 O OG  . SER A 1 68 ? -31.454 -10.665 22.148  1.0 82.27 ? 68 SER A OG  1 P44220 UNP 68 S 
+ATOM 552 N N   . ARG A 1 69 ? -29.964 -9.496  25.454  1.0 81.54 ? 69 ARG A N   1 P44220 UNP 69 R 
+ATOM 553 C CA  . ARG A 1 69 ? -29.966 -10.084 26.801  1.0 81.54 ? 69 ARG A CA  1 P44220 UNP 69 R 
+ATOM 554 C C   . ARG A 1 69 ? -30.702 -9.211  27.803  1.0 81.54 ? 69 ARG A C   1 P44220 UNP 69 R 
+ATOM 555 C CB  . ARG A 1 69 ? -28.536 -10.334 27.288  1.0 81.54 ? 69 ARG A CB  1 P44220 UNP 69 R 
+ATOM 556 O O   . ARG A 1 69 ? -31.523 -9.745  28.531  1.0 81.54 ? 69 ARG A O   1 P44220 UNP 69 R 
+ATOM 557 C CG  . ARG A 1 69 ? -27.906 -11.561 26.624  1.0 81.54 ? 69 ARG A CG  1 P44220 UNP 69 R 
+ATOM 558 C CD  . ARG A 1 69 ? -26.476 -11.710 27.143  1.0 81.54 ? 69 ARG A CD  1 P44220 UNP 69 R 
+ATOM 559 N NE  . ARG A 1 69 ? -25.795 -12.860 26.526  1.0 81.54 ? 69 ARG A NE  1 P44220 UNP 69 R 
+ATOM 560 N NH1 . ARG A 1 69 ? -23.975 -12.889 27.925  1.0 81.54 ? 69 ARG A NH1 1 P44220 UNP 69 R 
+ATOM 561 N NH2 . ARG A 1 69 ? -24.118 -14.376 26.267  1.0 81.54 ? 69 ARG A NH2 1 P44220 UNP 69 R 
+ATOM 562 C CZ  . ARG A 1 69 ? -24.638 -13.367 26.908  1.0 81.54 ? 69 ARG A CZ  1 P44220 UNP 69 R 
+ATOM 563 N N   . THR A 1 70 ? -30.467 -7.899  27.816  1.0 81.97 ? 70 THR A N   1 P44220 UNP 70 T 
+ATOM 564 C CA  . THR A 1 70 ? -31.210 -6.972  28.683  1.0 81.97 ? 70 THR A CA  1 P44220 UNP 70 T 
+ATOM 565 C C   . THR A 1 70 ? -32.699 -7.008  28.366  1.0 81.97 ? 70 THR A C   1 P44220 UNP 70 T 
+ATOM 566 C CB  . THR A 1 70 ? -30.691 -5.535  28.546  1.0 81.97 ? 70 THR A CB  1 P44220 UNP 70 T 
+ATOM 567 O O   . THR A 1 70 ? -33.497 -7.117  29.283  1.0 81.97 ? 70 THR A O   1 P44220 UNP 70 T 
+ATOM 568 C CG2 . THR A 1 70 ? -31.338 -4.573  29.541  1.0 81.97 ? 70 THR A CG2 1 P44220 UNP 70 T 
+ATOM 569 O OG1 . THR A 1 70 ? -29.308 -5.499  28.792  1.0 81.97 ? 70 THR A OG1 1 P44220 UNP 70 T 
+ATOM 570 N N   . SER A 1 71 ? -33.080 -7.006  27.083  1.0 81.30 ? 71 SER A N   1 P44220 UNP 71 S 
+ATOM 571 C CA  . SER A 1 71 ? -34.492 -7.089  26.695  1.0 81.30 ? 71 SER A CA  1 P44220 UNP 71 S 
+ATOM 572 C C   . SER A 1 71 ? -35.129 -8.433  27.064  1.0 81.30 ? 71 SER A C   1 P44220 UNP 71 S 
+ATOM 573 C CB  . SER A 1 71 ? -34.639 -6.835  25.194  1.0 81.30 ? 71 SER A CB  1 P44220 UNP 71 S 
+ATOM 574 O O   . SER A 1 71 ? -36.280 -8.461  27.486  1.0 81.30 ? 71 SER A O   1 P44220 UNP 71 S 
+ATOM 575 O OG  . SER A 1 71 ? -36.010 -6.783  24.844  1.0 81.30 ? 71 SER A OG  1 P44220 UNP 71 S 
+ATOM 576 N N   . LEU A 1 72 ? -34.400 -9.546  26.929  1.0 83.32 ? 72 LEU A N   1 P44220 UNP 72 L 
+ATOM 577 C CA  . LEU A 1 72 ? -34.870 -10.861 27.370  1.0 83.32 ? 72 LEU A CA  1 P44220 UNP 72 L 
+ATOM 578 C C   . LEU A 1 72 ? -34.996 -10.927 28.897  1.0 83.32 ? 72 LEU A C   1 P44220 UNP 72 L 
+ATOM 579 C CB  . LEU A 1 72 ? -33.922 -11.958 26.852  1.0 83.32 ? 72 LEU A CB  1 P44220 UNP 72 L 
+ATOM 580 O O   . LEU A 1 72 ? -36.002 -11.415 29.395  1.0 83.32 ? 72 LEU A O   1 P44220 UNP 72 L 
+ATOM 581 C CG  . LEU A 1 72 ? -34.014 -12.233 25.339  1.0 83.32 ? 72 LEU A CG  1 P44220 UNP 72 L 
+ATOM 582 C CD1 . LEU A 1 72 ? -32.872 -13.163 24.921  1.0 83.32 ? 72 LEU A CD1 1 P44220 UNP 72 L 
+ATOM 583 C CD2 . LEU A 1 72 ? -35.340 -12.880 24.940  1.0 83.32 ? 72 LEU A CD2 1 P44220 UNP 72 L 
+ATOM 584 N N   . LEU A 1 73 ? -34.016 -10.402 29.633  1.0 83.11 ? 73 LEU A N   1 P44220 UNP 73 L 
+ATOM 585 C CA  . LEU A 1 73 ? -34.030 -10.342 31.094  1.0 83.11 ? 73 LEU A CA  1 P44220 UNP 73 L 
+ATOM 586 C C   . LEU A 1 73 ? -35.170 -9.460  31.615  1.0 83.11 ? 73 LEU A C   1 P44220 UNP 73 L 
+ATOM 587 C CB  . LEU A 1 73 ? -32.651 -9.856  31.576  1.0 83.11 ? 73 LEU A CB  1 P44220 UNP 73 L 
+ATOM 588 O O   . LEU A 1 73 ? -35.858 -9.852  32.548  1.0 83.11 ? 73 LEU A O   1 P44220 UNP 73 L 
+ATOM 589 C CG  . LEU A 1 73 ? -32.482 -9.832  33.105  1.0 83.11 ? 73 LEU A CG  1 P44220 UNP 73 L 
+ATOM 590 C CD1 . LEU A 1 73 ? -32.568 -11.230 33.718  1.0 83.11 ? 73 LEU A CD1 1 P44220 UNP 73 L 
+ATOM 591 C CD2 . LEU A 1 73 ? -31.128 -9.222  33.464  1.0 83.11 ? 73 LEU A CD2 1 P44220 UNP 73 L 
+ATOM 592 N N   . GLU A 1 74 ? -35.413 -8.309  30.990  1.0 83.02 ? 74 GLU A N   1 P44220 UNP 74 E 
+ATOM 593 C CA  . GLU A 1 74 ? -36.531 -7.418  31.316  1.0 83.02 ? 74 GLU A CA  1 P44220 UNP 74 E 
+ATOM 594 C C   . GLU A 1 74 ? -37.886 -8.094  31.067  1.0 83.02 ? 74 GLU A C   1 P44220 UNP 74 E 
+ATOM 595 C CB  . GLU A 1 74 ? -36.381 -6.135  30.486  1.0 83.02 ? 74 GLU A CB  1 P44220 UNP 74 E 
+ATOM 596 O O   . GLU A 1 74 ? -38.795 -7.971  31.883  1.0 83.02 ? 74 GLU A O   1 P44220 UNP 74 E 
+ATOM 597 C CG  . GLU A 1 74 ? -37.424 -5.059  30.821  1.0 83.02 ? 74 GLU A CG  1 P44220 UNP 74 E 
+ATOM 598 C CD  . GLU A 1 74 ? -37.199 -3.755  30.036  1.0 83.02 ? 74 GLU A CD  1 P44220 UNP 74 E 
+ATOM 599 O OE1 . GLU A 1 74 ? -37.842 -2.747  30.401  1.0 83.02 ? 74 GLU A OE1 1 P44220 UNP 74 E 
+ATOM 600 O OE2 . GLU A 1 74 ? -36.423 -3.768  29.046  1.0 83.02 ? 74 GLU A OE2 1 P44220 UNP 74 E 
+ATOM 601 N N   . ARG A 1 75 ? -38.014 -8.873  29.983  1.0 82.84 ? 75 ARG A N   1 P44220 UNP 75 R 
+ATOM 602 C CA  . ARG A 1 75 ? -39.209 -9.697  29.742  1.0 82.84 ? 75 ARG A CA  1 P44220 UNP 75 R 
+ATOM 603 C C   . ARG A 1 75 ? -39.380 -10.781 30.808  1.0 82.84 ? 75 ARG A C   1 P44220 UNP 75 R 
+ATOM 604 C CB  . ARG A 1 75 ? -39.183 -10.305 28.338  1.0 82.84 ? 75 ARG A CB  1 P44220 UNP 75 R 
+ATOM 605 O O   . ARG A 1 75 ? -40.475 -10.905 31.332  1.0 82.84 ? 75 ARG A O   1 P44220 UNP 75 R 
+ATOM 606 C CG  . ARG A 1 75 ? -39.443 -9.253  27.254  1.0 82.84 ? 75 ARG A CG  1 P44220 UNP 75 R 
+ATOM 607 C CD  . ARG A 1 75 ? -39.247 -9.900  25.883  1.0 82.84 ? 75 ARG A CD  1 P44220 UNP 75 R 
+ATOM 608 N NE  . ARG A 1 75 ? -39.323 -8.904  24.799  1.0 82.84 ? 75 ARG A NE  1 P44220 UNP 75 R 
+ATOM 609 N NH1 . ARG A 1 75 ? -40.201 -10.276 23.183  1.0 82.84 ? 75 ARG A NH1 1 P44220 UNP 75 R 
+ATOM 610 N NH2 . ARG A 1 75 ? -39.753 -8.142  22.700  1.0 82.84 ? 75 ARG A NH2 1 P44220 UNP 75 R 
+ATOM 611 C CZ  . ARG A 1 75 ? -39.757 -9.112  23.570  1.0 82.84 ? 75 ARG A CZ  1 P44220 UNP 75 R 
+ATOM 612 N N   . MET A 1 76 ? -38.316 -11.495 31.187  1.0 81.88 ? 76 MET A N   1 P44220 UNP 76 M 
+ATOM 613 C CA  . MET A 1 76 ? -38.378 -12.495 32.269  1.0 81.88 ? 76 MET A CA  1 P44220 UNP 76 M 
+ATOM 614 C C   . MET A 1 76 ? -38.722 -11.869 33.633  1.0 81.88 ? 76 MET A C   1 P44220 UNP 76 M 
+ATOM 615 C CB  . MET A 1 76 ? -37.056 -13.272 32.371  1.0 81.88 ? 76 MET A CB  1 P44220 UNP 76 M 
+ATOM 616 O O   . MET A 1 76 ? -39.474 -12.465 34.400  1.0 81.88 ? 76 MET A O   1 P44220 UNP 76 M 
+ATOM 617 C CG  . MET A 1 76 ? -36.805 -14.194 31.171  1.0 81.88 ? 76 MET A CG  1 P44220 UNP 76 M 
+ATOM 618 S SD  . MET A 1 76 ? -35.356 -15.287 31.306  1.0 81.88 ? 76 MET A SD  1 P44220 UNP 76 M 
+ATOM 619 C CE  . MET A 1 76 ? -34.009 -14.104 31.541  1.0 81.88 ? 76 MET A CE  1 P44220 UNP 76 M 
+ATOM 620 N N   . HIS A 1 77 ? -38.217 -10.660 33.925  1.0 79.28 ? 77 HIS A N   1 P44220 UNP 77 H 
+ATOM 621 C CA  . HIS A 1 77 ? -38.617 -9.879  35.104  1.0 79.28 ? 77 HIS A CA  1 P44220 UNP 77 H 
+ATOM 622 C C   . HIS A 1 77 ? -40.111 -9.531  35.071  1.0 79.28 ? 77 HIS A C   1 P44220 UNP 77 H 
+ATOM 623 C CB  . HIS A 1 77 ? -37.791 -8.577  35.215  1.0 79.28 ? 77 HIS A CB  1 P44220 UNP 77 H 
+ATOM 624 O O   . HIS A 1 77 ? -40.793 -9.708  36.077  1.0 79.28 ? 77 HIS A O   1 P44220 UNP 77 H 
+ATOM 625 C CG  . HIS A 1 77 ? -36.565 -8.656  36.093  1.0 79.28 ? 77 HIS A CG  1 P44220 UNP 77 H 
+ATOM 626 C CD2 . HIS A 1 77 ? -35.264 -8.690  35.678  1.0 79.28 ? 77 HIS A CD2 1 P44220 UNP 77 H 
+ATOM 627 N ND1 . HIS A 1 77 ? -36.547 -8.709  37.471  1.0 79.28 ? 77 HIS A ND1 1 P44220 UNP 77 H 
+ATOM 628 C CE1 . HIS A 1 77 ? -35.266 -8.821  37.867  1.0 79.28 ? 77 HIS A CE1 1 P44220 UNP 77 H 
+ATOM 629 N NE2 . HIS A 1 77 ? -34.440 -8.794  36.807  1.0 79.28 ? 77 HIS A NE2 1 P44220 UNP 77 H 
+ATOM 630 N N   . ASN A 1 78 ? -40.618 -9.043  33.934  1.0 79.66 ? 78 ASN A N   1 P44220 UNP 78 N 
+ATOM 631 C CA  . ASN A 1 78 ? -42.019 -8.636  33.792  1.0 79.66 ? 78 ASN A CA  1 P44220 UNP 78 N 
+ATOM 632 C C   . ASN A 1 78 ? -42.995 -9.822  33.812  1.0 79.66 ? 78 ASN A C   1 P44220 UNP 78 N 
+ATOM 633 C CB  . ASN A 1 78 ? -42.182 -7.823  32.498  1.0 79.66 ? 78 ASN A CB  1 P44220 UNP 78 N 
+ATOM 634 O O   . ASN A 1 78 ? -44.080 -9.695  34.374  1.0 79.66 ? 78 ASN A O   1 P44220 UNP 78 N 
+ATOM 635 C CG  . ASN A 1 78 ? -41.632 -6.411  32.595  1.0 79.66 ? 78 ASN A CG  1 P44220 UNP 78 N 
+ATOM 636 N ND2 . ASN A 1 78 ? -41.331 -5.798  31.474  1.0 79.66 ? 78 ASN A ND2 1 P44220 UNP 78 N 
+ATOM 637 O OD1 . ASN A 1 78 ? -41.496 -5.817  33.650  1.0 79.66 ? 78 ASN A OD1 1 P44220 UNP 78 N 
+ATOM 638 N N   . ASP A 1 79 ? -42.613 -10.967 33.243  1.0 83.63 ? 79 ASP A N   1 P44220 UNP 79 D 
+ATOM 639 C CA  . ASP A 1 79 ? -43.436 -12.184 33.234  1.0 83.63 ? 79 ASP A CA  1 P44220 UNP 79 D 
+ATOM 640 C C   . ASP A 1 79 ? -43.435 -12.908 34.597  1.0 83.63 ? 79 ASP A C   1 P44220 UNP 79 D 
+ATOM 641 C CB  . ASP A 1 79 ? -42.997 -13.108 32.076  1.0 83.63 ? 79 ASP A CB  1 P44220 UNP 79 D 
+ATOM 642 O O   . ASP A 1 79 ? -44.133 -13.907 34.770  1.0 83.63 ? 79 ASP A O   1 P44220 UNP 79 D 
+ATOM 643 C CG  . ASP A 1 79 ? -43.374 -12.601 30.670  1.0 83.63 ? 79 ASP A CG  1 P44220 UNP 79 D 
+ATOM 644 O OD1 . ASP A 1 79 ? -44.174 -11.643 30.552  1.0 83.63 ? 79 ASP A OD1 1 P44220 UNP 79 D 
+ATOM 645 O OD2 . ASP A 1 79 ? -42.873 -13.193 29.683  1.0 83.63 ? 79 ASP A OD2 1 P44220 UNP 79 D 
+ATOM 646 N N   . GLY A 1 80 ? -42.672 -12.414 35.584  1.0 75.55 ? 80 GLY A N   1 P44220 UNP 80 G 
+ATOM 647 C CA  . GLY A 1 80 ? -42.588 -13.006 36.923  1.0 75.55 ? 80 GLY A CA  1 P44220 UNP 80 G 
+ATOM 648 C C   . GLY A 1 80 ? -41.905 -14.379 36.956  1.0 75.55 ? 80 GLY A C   1 P44220 UNP 80 G 
+ATOM 649 O O   . GLY A 1 80 ? -42.033 -15.094 37.947  1.0 75.55 ? 80 GLY A O   1 P44220 UNP 80 G 
+ATOM 650 N N   . ASP A 1 81 ? -41.191 -14.754 35.888  1.0 75.16 ? 81 ASP A N   1 P44220 UNP 81 D 
+ATOM 651 C CA  . ASP A 1 81 ? -40.488 -16.044 35.764  1.0 75.16 ? 81 ASP A CA  1 P44220 UNP 81 D 
+ATOM 652 C C   . ASP A 1 81 ? -39.124 -16.045 36.474  1.0 75.16 ? 81 ASP A C   1 P44220 UNP 81 D 
+ATOM 653 C CB  . ASP A 1 81 ? -40.342 -16.404 34.279  1.0 75.16 ? 81 ASP A CB  1 P44220 UNP 81 D 
+ATOM 654 O O   . ASP A 1 81 ? -38.519 -17.090 36.716  1.0 75.16 ? 81 ASP A O   1 P44220 UNP 81 D 
+ATOM 655 C CG  . ASP A 1 81 ? -39.844 -17.842 34.053  1.0 75.16 ? 81 ASP A CG  1 P44220 UNP 81 D 
+ATOM 656 O OD1 . ASP A 1 81 ? -40.260 -18.748 34.814  1.0 75.16 ? 81 ASP A OD1 1 P44220 UNP 81 D 
+ATOM 657 O OD2 . ASP A 1 81 ? -39.094 -18.039 33.069  1.0 75.16 ? 81 ASP A OD2 1 P44220 UNP 81 D 
+ATOM 658 N N   . LEU A 1 82 ? -38.638 -14.871 36.882  1.0 68.32 ? 82 LEU A N   1 P44220 UNP 82 L 
+ATOM 659 C CA  . LEU A 1 82 ? -37.549 -14.793 37.847  1.0 68.32 ? 82 LEU A CA  1 P44220 UNP 82 L 
+ATOM 660 C C   . LEU A 1 82 ? -38.093 -15.162 39.228  1.0 68.32 ? 82 LEU A C   1 P44220 UNP 82 L 
+ATOM 661 C CB  . LEU A 1 82 ? -36.876 -13.421 37.795  1.0 68.32 ? 82 LEU A CB  1 P44220 UNP 82 L 
+ATOM 662 O O   . LEU A 1 82 ? -38.488 -14.308 40.017  1.0 68.32 ? 82 LEU A O   1 P44220 UNP 82 L 
+ATOM 663 C CG  . LEU A 1 82 ? -36.244 -13.133 36.424  1.0 68.32 ? 82 LEU A CG  1 P44220 UNP 82 L 
+ATOM 664 C CD1 . LEU A 1 82 ? -35.678 -11.739 36.465  1.0 68.32 ? 82 LEU A CD1 1 P44220 UNP 82 L 
+ATOM 665 C CD2 . LEU A 1 82 ? -35.093 -14.059 36.034  1.0 68.32 ? 82 LEU A CD2 1 P44220 UNP 82 L 
+ATOM 666 N N   . ARG A 1 83 ? -38.141 -16.470 39.485  1.0 69.52 ? 83 ARG A N   1 P44220 UNP 83 R 
+ATOM 667 C CA  . ARG A 1 83 ? -38.245 -17.023 40.835  1.0 69.52 ? 83 ARG A CA  1 P44220 UNP 83 R 
+ATOM 668 C C   . ARG A 1 83 ? -37.033 -16.503 41.613  1.0 69.52 ? 83 ARG A C   1 P44220 UNP 83 R 
+ATOM 669 C CB  . ARG A 1 83 ? -38.257 -18.565 40.786  1.0 69.52 ? 83 ARG A CB  1 P44220 UNP 83 R 
+ATOM 670 O O   . ARG A 1 83 ? -35.908 -16.754 41.182  1.0 69.52 ? 83 ARG A O   1 P44220 UNP 83 R 
+ATOM 671 C CG  . ARG A 1 83 ? -39.397 -19.133 39.922  1.0 69.52 ? 83 ARG A CG  1 P44220 UNP 83 R 
+ATOM 672 C CD  . ARG A 1 83 ? -39.304 -20.657 39.750  1.0 69.52 ? 83 ARG A CD  1 P44220 UNP 83 R 
+ATOM 673 N NE  . ARG A 1 83 ? -40.062 -21.397 40.779  1.0 69.52 ? 83 ARG A NE  1 P44220 UNP 83 R 
+ATOM 674 N NH1 . ARG A 1 83 ? -39.452 -23.501 40.110  1.0 69.52 ? 83 ARG A NH1 1 P44220 UNP 83 R 
+ATOM 675 N NH2 . ARG A 1 83 ? -40.959 -23.260 41.742  1.0 69.52 ? 83 ARG A NH2 1 P44220 UNP 83 R 
+ATOM 676 C CZ  . ARG A 1 83 ? -40.154 -22.711 40.875  1.0 69.52 ? 83 ARG A CZ  1 P44220 UNP 83 R 
+ATOM 677 N N   . ASP A 1 84 ? -37.276 -15.753 42.683  1.0 64.46 ? 84 ASP A N   1 P44220 UNP 84 D 
+ATOM 678 C CA  . ASP A 1 84 ? -36.265 -15.489 43.719  1.0 64.46 ? 84 ASP A CA  1 P44220 UNP 84 D 
+ATOM 679 C C   . ASP A 1 84 ? -35.688 -16.820 44.243  1.0 64.46 ? 84 ASP A C   1 P44220 UNP 84 D 
+ATOM 680 C CB  . ASP A 1 84 ? -36.908 -14.620 44.828  1.0 64.46 ? 84 ASP A CB  1 P44220 UNP 84 D 
+ATOM 681 O O   . ASP A 1 84 ? -36.485 -17.784 44.403  1.0 64.46 ? 84 ASP A O   1 P44220 UNP 84 D 
+ATOM 682 C CG  . ASP A 1 84 ? -35.937 -13.878 45.773  1.0 64.46 ? 84 ASP A CG  1 P44220 UNP 84 D 
+ATOM 683 O OD1 . ASP A 1 84 ? -34.882 -13.386 45.308  1.0 64.46 ? 84 ASP A OD1 1 P44220 UNP 84 D 
+ATOM 684 O OD2 . ASP A 1 84 ? -36.331 -13.669 46.948  1.0 64.46 ? 84 ASP A OD2 1 P44220 UNP 84 D 
+ATOM 685 O OXT . ASP A 1 84 ? -34.451 -16.888 44.396  1.0 64.46 ? 84 ASP A OXT 1 P44220 UNP 84 D 
+#

@@ -1,0 +1,48 @@
+WARNING: Runtime environment or build system does not support multi-release JARs. This will impact location-based features.
+Protein Comparison Tool 7.1.1 20240306-1817
+-------------------
+jFatCat_flexible v.1.1 help: 
+-------------------
+
+jFatCat_flexible accepts the following parameters:
+
+--- pairwise alignments ---
+ two files to align can be specified by providing a path to a file, or a URL:
+   -file1 the first file to align
+   -file2 the second file to align
+ alternatively you can specify PDB files by their PDB ids:
+   -pdbFilePath  Path to the directory in your file system that contains the PDB files.
+   -pdb1  PDB ID of target structure. Chain IDs are optional. In order to specify chain IDs write e.g: 5pti.A
+   -pdb2  PDB ID of query structure. Chain IDs are optional. In order to specify chain IDs write e.g: 5pti.A
+
+   -h / -help / --help : print this help string.
+   -version: print version info
+   -printXML true/false print the XML representation of the alignment on stdout.
+   -printFatCat true/false print the original FATCAT output to stdout.
+   -printCE true/false print the result in CE style
+   -show3d print a 3D visualisation of the alignment (requires jmolapplet.jar in classpath)
+   -outFile file to write the output to (default: writes XML representation).
+   -outputPDB use this flag together with -outFile to dump the PDB file of the aligned structures, instead of the XML representation, instead of XML
+   -autoFetch true/false if set to true PDB files will automatically get downloaded and stored in the right location. (default: false)
+   -showMenu displays the menu that allows to run alignments through a user interface.
+
+--- custom searches ---
+   -alignPairs (mandatory) path to a file that contains a set of pairs to compair
+   -outFile (mandatory) a file that will contain the summary of all the pairwise alignments
+
+--- jFatCat_flexible parameters: ---
+   -fragLen The length of the fragments.
+   -rmsdCut The RMSD cutoff to be used during AFP detection.
+   -disCut The distance cutoff used when calculate the connectivity of AFP pairs
+   -maxTra The number of twists that are allowed to be introduced. If set to 0 alignments are run in RIGID mode.
+
+ For boolean arguments: if neither the text >true< or >false< is provided it is assumed to mean >true<. Instead of >-argument false< it is also possible to write -noArgument.
+
+--- How to specify what to align ---
+ If only a PDB code is provided, the whole structure will be used for the alignment.
+ To specify a particular chain write as: 4hhb.A (chain IDs are case sensitive, PDB ids are not)
+ To specify that the 1st chain in a structure should be used write: 4hhb:0 .
+ In order to align SCOP domains, provide pdb1/pdb2 as: d4hhba_ Note: if SCOP is not installed at the -pdbFilePath, will automatically download and install.
+
+
+Error: insufficient arguments.

@@ -1,0 +1,50 @@
+#!rasmol -script
+# File: Random1_2.opt.twist.script
+# Creator: FATCAT
+
+zap
+load pdb "Random1_2.opt.twist.pdb"
+background white
+set ambient 40
+set specular on
+wireframe off
+
+select all
+cartoon
+
+select *A
+color [219,219,219]
+select *B
+color [232,232,232]
+
+ 
+select 1-15A
+color [181,181,181]
+select 2-16B
+color [255,0,0]
+
+select 26-106A
+color [181,181,181]
+select 18-102B
+color [205,0,205]
+
+select 113-128A
+color [181,181,181]
+select 122-137B
+color [255,255,0]
+
+select 129-145A
+color [181,181,181]
+select 177-193B
+color [0,255,0]
+
+select 146-171A
+color [181,181,181]
+select 198-223B
+color [0,0,255]
+
+select 191-219A
+color [181,181,181]
+select 267-293B
+color [0,255,255]
+

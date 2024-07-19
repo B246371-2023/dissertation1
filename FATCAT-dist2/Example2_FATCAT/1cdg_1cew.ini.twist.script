@@ -1,0 +1,35 @@
+#!rasmol -script
+# File: 1cdg_1cew.ini.twist.script
+# Creator: FATCAT
+
+zap
+load pdb "1cdg_1cew.ini.twist.pdb"
+background white
+set ambient 40
+set specular on
+wireframe off
+
+select all
+cartoon
+
+select *A
+color [219,219,219]
+select *B
+color [232,232,232]
+
+ 
+select 199-231A
+color [181,181,181]
+select 13-48B
+color [255,0,0]
+
+select 247-262A
+color [181,181,181]
+select 54-69B
+color [205,0,205]
+
+select 298-314A
+color [181,181,181]
+select 74-89B
+color [255,255,0]
+
